@@ -1,0 +1,31 @@
+{
+  "name": "metriccheck",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A JavaScript prototype for validating numeric claims in LLM-generated analytics summaries.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "experiment": "node scripts/runExperiment.js",
+    "experiment:export": "node scripts/exportExperimentExample.js",
+    "data:large:generate": "node scripts/createLargeSyntheticDataset.js",
+    "sample:workbook": "node scripts/createSampleWorkbook.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "overrides": {
+    "exceljs": {
+      "uuid": "^11.1.1"
+    }
+  },
+  "dependencies": {
+    "@koa/router": "^13.1.0",
+    "dotenv": "^16.4.7",
+    "exceljs": "^4.4.0",
+    "joi": "^17.13.8",
+    "koa": "^2.16.4",
+    "koa-bodyparser": "^4.4.1"
+  }
+}

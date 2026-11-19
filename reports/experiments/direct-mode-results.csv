@@ -1,0 +1,34 @@
+Prompt Strategy,Prompt Instruction,Metric,Meaning,Correct Reference,Run 1,Run 2,Run 3,Matched Claims (out of 33),Mismatched Claims (out of 33)
+Concise,"Calculate the requested metrics from the supplied data and return a concise summary.",total_app_opens,Total app opens across all rows,367535,348864,359931,328101,0,33
+Concise,"Calculate the requested metrics from the supplied data and return a concise summary.",average_daily_app_opens,Average app opens per date combining all platforms,3675.35,3488.64,3599.31,3281.01,0,33
+Concise,"Calculate the requested metrics from the supplied data and return a concise summary.",weighted_notification_open_rate_percent,Overall percentage of notifications opened,35.14%,34.86%,32.72%,35.49%,0,33
+Concise,"Calculate the requested metrics from the supplied data and return a concise summary.",android_app_opens,App opens on Android,88977,158657,144155,103209,0,33
+Concise,"Calculate the requested metrics from the supplied data and return a concise summary.",north_region_app_opens,App opens in the North region,78605,86050,87850,82502,0,33
+Concise,"Calculate the requested metrics from the supplied data and return a concise summary.",social_campaign_app_opens,App opens attributed to the social campaign,87114,84467,89205,80656,0,33
+Concise,"Calculate the requested metrics from the supplied data and return a concise summary.",monthly_app_opens_2026_01,App opens in January,113415,107113,114656,100861,0,33
+Concise,"Calculate the requested metrics from the supplied data and return a concise summary.",monthly_app_opens_2026_02,App opens in February,103582,89748,86098,85868,0,33
+Concise,"Calculate the requested metrics from the supplied data and return a concise summary.",monthly_app_opens_2026_03,App opens in March,111149,87646,87520,85313,0,33
+Concise,"Calculate the requested metrics from the supplied data and return a concise summary.",monthly_app_opens_2026_04,App opens in April,39389,64357,71657,56059,0,33
+Concise,"Calculate the requested metrics from the supplied data and return a concise summary.",january_to_april_app_opens_change_percent,Percentage change in app opens from January to April,-65.27%,-39.92%,-37.50%,-44.42%,0,33
+Formula-led,"Follow the metric definitions, apply each formula in order, and check units and rounding.",total_app_opens,Total app opens across all rows,367535,379590,328137,372242,0,33
+Formula-led,"Follow the metric definitions, apply each formula in order, and check units and rounding.",average_daily_app_opens,Average app opens per date combining all platforms,3675.35,3795.90,3281.37,3722.42,0,33
+Formula-led,"Follow the metric definitions, apply each formula in order, and check units and rounding.",weighted_notification_open_rate_percent,Overall percentage of notifications opened,35.14%,33.84%,39.73%,39.16%,0,33
+Formula-led,"Follow the metric definitions, apply each formula in order, and check units and rounding.",android_app_opens,App opens on Android,88977,356548,80716,155908,0,33
+Formula-led,"Follow the metric definitions, apply each formula in order, and check units and rounding.",north_region_app_opens,App opens in the North region,78605,355176,80099,90578,0,33
+Formula-led,"Follow the metric definitions, apply each formula in order, and check units and rounding.",social_campaign_app_opens,App opens attributed to the social campaign,87114,356141,81378,93546,0,33
+Formula-led,"Follow the metric definitions, apply each formula in order, and check units and rounding.",monthly_app_opens_2026_01,App opens in January,113415,118135,112465,114128,0,33
+Formula-led,"Follow the metric definitions, apply each formula in order, and check units and rounding.",monthly_app_opens_2026_02,App opens in February,103582,92066,87259,90018,0,33
+Formula-led,"Follow the metric definitions, apply each formula in order, and check units and rounding.",monthly_app_opens_2026_03,App opens in March,111149,82828,82012,99340,0,33
+Formula-led,"Follow the metric definitions, apply each formula in order, and check units and rounding.",monthly_app_opens_2026_04,App opens in April,39389,86561,46401,68756,0,33
+Formula-led,"Follow the metric definitions, apply each formula in order, and check units and rounding.",january_to_april_app_opens_change_percent,Percentage change in app opens from January to April,-65.27%,-26.73%,-58.74%,-39.76%,0,33
+Self-check,"Calculate the metrics, recompute them as a check, and correct discrepancies before answering.",total_app_opens,Total app opens across all rows,367535,337910,346659,400270,0,33
+Self-check,"Calculate the metrics, recompute them as a check, and correct discrepancies before answering.",average_daily_app_opens,Average app opens per date combining all platforms,3675.35,3379.10,3466.59,4002.70,0,33
+Self-check,"Calculate the metrics, recompute them as a check, and correct discrepancies before answering.",weighted_notification_open_rate_percent,Overall percentage of notifications opened,35.14%,31.35%,34.03%,41.00%,0,33
+Self-check,"Calculate the metrics, recompute them as a check, and correct discrepancies before answering.",android_app_opens,App opens on Android,88977,82764,85202,107840,0,33
+Self-check,"Calculate the metrics, recompute them as a check, and correct discrepancies before answering.",north_region_app_opens,App opens in the North region,78605,83378,85994,100281,0,33
+Self-check,"Calculate the metrics, recompute them as a check, and correct discrepancies before answering.",social_campaign_app_opens,App opens attributed to the social campaign,87114,85447,85272,99387,0,33
+Self-check,"Calculate the metrics, recompute them as a check, and correct discrepancies before answering.",monthly_app_opens_2026_01,App opens in January,113415,105034,110012,123712,0,33
+Self-check,"Calculate the metrics, recompute them as a check, and correct discrepancies before answering.",monthly_app_opens_2026_02,App opens in February,103582,82992,84585,92772,0,33
+Self-check,"Calculate the metrics, recompute them as a check, and correct discrepancies before answering.",monthly_app_opens_2026_03,App opens in March,111149,82247,84764,96291,0,33
+Self-check,"Calculate the metrics, recompute them as a check, and correct discrepancies before answering.",monthly_app_opens_2026_04,App opens in April,39389,67637,67298,87495,0,33
+Self-check,"Calculate the metrics, recompute them as a check, and correct discrepancies before answering.",january_to_april_app_opens_change_percent,Percentage change in app opens from January to April,-65.27%,-35.61%,-38.83%,-29.28%,0,33

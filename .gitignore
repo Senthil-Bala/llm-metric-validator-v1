@@ -1,0 +1,9 @@
+node_modules/
+.env
+coverage/
+docs/
+examples/
+reports/experiments/*
+!reports/experiments/direct-mode-results.csv
+!reports/experiments/grounded-mode-results.csv
+npm-debug.log*

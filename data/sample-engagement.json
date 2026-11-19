@@ -1,0 +1,22 @@
+{
+  "dailyEngagement": [
+    { "date": "2026-01-27", "appOpens": 118, "activeUsers": 72 },
+    { "date": "2026-01-28", "appOpens": 126, "activeUsers": 77 },
+    { "date": "2026-01-29", "appOpens": 121, "activeUsers": 74 },
+    { "date": "2026-01-30", "appOpens": 135, "activeUsers": 81 },
+    { "date": "2026-02-01", "appOpens": 142, "activeUsers": 84 },
+    { "date": "2026-02-02", "appOpens": 139, "activeUsers": 82 },
+    { "date": "2026-02-03", "appOpens": 151, "activeUsers": 91 },
+    { "date": "2026-02-04", "appOpens": 147, "activeUsers": 89 }
+  ],
+  "notifications": [
+    { "date": "2026-01-27", "sent": 80, "opened": 31 },
+    { "date": "2026-01-28", "sent": 82, "opened": 34 },
+    { "date": "2026-01-29", "sent": 78, "opened": 29 },
+    { "date": "2026-01-30", "sent": 90, "opened": 38 },
+    { "date": "2026-02-01", "sent": 92, "opened": 41 },
+    { "date": "2026-02-02", "sent": 88, "opened": 36 },
+    { "date": "2026-02-03", "sent": 95, "opened": 44 },
+    { "date": "2026-02-04", "sent": 91, "opened": 39 }
+  ]
+}

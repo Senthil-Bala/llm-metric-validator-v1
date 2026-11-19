@@ -1,0 +1,4008 @@
+{
+  "datasetId": "synthetic-engagement-400-v1",
+  "description": "Deterministic synthetic engagement data for MetricCheck; 100 days x 4 platforms.",
+  "seed": 20261119,
+  "rowCount": 400,
+  "rows": [
+    {
+      "date": "2026-01-01",
+      "platform": "Android",
+      "region": "North",
+      "campaign": "organic",
+      "appOpens": 1097,
+      "activeUsers": 547,
+      "notificationsSent": 266,
+      "notificationsOpened": 39
+    },
+    {
+      "date": "2026-01-01",
+      "platform": "iOS",
+      "region": "East",
+      "campaign": "paid-search",
+      "appOpens": 1577,
+      "activeUsers": 666,
+      "notificationsSent": 293,
+      "notificationsOpened": 99
+    },
+    {
+      "date": "2026-01-01",
+      "platform": "Web",
+      "region": "Central",
+      "campaign": "social",
+      "appOpens": 461,
+      "activeUsers": 297,
+      "notificationsSent": 213,
+      "notificationsOpened": 59
+    },
+    {
+      "date": "2026-01-01",
+      "platform": "Other",
+      "region": "South",
+      "campaign": "email",
+      "appOpens": 291,
+      "activeUsers": 127,
+      "notificationsSent": 229,
+      "notificationsOpened": 27
+    },
+    {
+      "date": "2026-01-02",
+      "platform": "Android",
+      "region": "South",
+      "campaign": "email",
+      "appOpens": 1160,
+      "activeUsers": 424,
+      "notificationsSent": 242,
+      "notificationsOpened": 99
+    },
+    {
+      "date": "2026-01-02",
+      "platform": "iOS",
+      "region": "West",
+      "campaign": "organic",
+      "appOpens": 1273,
+      "activeUsers": 259,
+      "notificationsSent": 120,
+      "notificationsOpened": 46
+    },
+    {
+      "date": "2026-01-02",
+      "platform": "Web",
+      "region": "North",
+      "campaign": "paid-search",
+      "appOpens": 1031,
+      "activeUsers": 99,
+      "notificationsSent": 145,
+      "notificationsOpened": 35
+    },
+    {
+      "date": "2026-01-02",
+      "platform": "Other",
+      "region": "East",
+      "campaign": "social",
+      "appOpens": 429,
+      "activeUsers": 280,
+      "notificationsSent": 93,
+      "notificationsOpened": 13
+    },
+    {
+      "date": "2026-01-03",
+      "platform": "Android",
+      "region": "East",
+      "campaign": "social",
+      "appOpens": 910,
+      "activeUsers": 698,
+      "notificationsSent": 478,
+      "notificationsOpened": 62
+    },
+    {
+      "date": "2026-01-03",
+      "platform": "iOS",
+      "region": "Central",
+      "campaign": "email",
+      "appOpens": 733,
+      "activeUsers": 258,
+      "notificationsSent": 126,
+      "notificationsOpened": 48
+    },
+    {
+      "date": "2026-01-03",
+      "platform": "Web",
+      "region": "South",
+      "campaign": "organic",
+      "appOpens": 1327,
+      "activeUsers": 467,
+      "notificationsSent": 148,
+      "notificationsOpened": 24
+    },
+    {
+      "date": "2026-01-03",
+      "platform": "Other",
+      "region": "West",
+      "campaign": "paid-search",
+      "appOpens": 382,
+      "activeUsers": 215,
+      "notificationsSent": 166,
+      "notificationsOpened": 41
+    },
+    {
+      "date": "2026-01-04",
+      "platform": "Android",
+      "region": "West",
+      "campaign": "paid-search",
+      "appOpens": 1030,
+      "activeUsers": 221,
+      "notificationsSent": 200,
+      "notificationsOpened": 97
+    },
+    {
+      "date": "2026-01-04",
+      "platform": "iOS",
+      "region": "North",
+      "campaign": "social",
+      "appOpens": 995,
+      "activeUsers": 454,
+      "notificationsSent": 177,
+      "notificationsOpened": 52
+    },
+    {
+      "date": "2026-01-04",
+      "platform": "Web",
+      "region": "East",
+      "campaign": "email",
+      "appOpens": 1546,
+      "activeUsers": 620,
+      "notificationsSent": 332,
+      "notificationsOpened": 136
+    },
+    {
+      "date": "2026-01-04",
+      "platform": "Other",
+      "region": "Central",
+      "campaign": "organic",
+      "appOpens": 841,
+      "activeUsers": 170,
+      "notificationsSent": 88,
+      "notificationsOpened": 46
+    },
+    {
+      "date": "2026-01-05",
+      "platform": "Android",
+      "region": "Central",
+      "campaign": "organic",
+      "appOpens": 987,
+      "activeUsers": 245,
+      "notificationsSent": 265,
+      "notificationsOpened": 45
+    },
+    {
+      "date": "2026-01-05",
+      "platform": "iOS",
+      "region": "South",
+      "campaign": "paid-search",
+      "appOpens": 1114,
+      "activeUsers": 576,
+      "notificationsSent": 117,
+      "notificationsOpened": 57
+    },
+    {
+      "date": "2026-01-05",
+      "platform": "Web",
+      "region": "West",
+      "campaign": "social",
+      "appOpens": 885,
+      "activeUsers": 487,
+      "notificationsSent": 140,
+      "notificationsOpened": 17
+    },
+    {
+      "date": "2026-01-05",
+      "platform": "Other",
+      "region": "North",
+      "campaign": "email",
+      "appOpens": 1435,
+      "activeUsers": 336,
+      "notificationsSent": 109,
+      "notificationsOpened": 19
+    },
+    {
+      "date": "2026-01-06",
+      "platform": "Android",
+      "region": "North",
+      "campaign": "email",
+      "appOpens": 868,
+      "activeUsers": 705,
+      "notificationsSent": 373,
+      "notificationsOpened": 91
+    },
+    {
+      "date": "2026-01-06",
+      "platform": "iOS",
+      "region": "East",
+      "campaign": "organic",
+      "appOpens": 1400,
+      "activeUsers": 542,
+      "notificationsSent": 134,
+      "notificationsOpened": 20
+    },
+    {
+      "date": "2026-01-06",
+      "platform": "Web",
+      "region": "Central",
+      "campaign": "paid-search",
+      "appOpens": 777,
+      "activeUsers": 204,
+      "notificationsSent": 73,
+      "notificationsOpened": 20
+    },
+    {
+      "date": "2026-01-06",
+      "platform": "Other",
+      "region": "South",
+      "campaign": "social",
+      "appOpens": 1162,
+      "activeUsers": 513,
+      "notificationsSent": 108,
+      "notificationsOpened": 16
+    },
+    {
+      "date": "2026-01-07",
+      "platform": "Android",
+      "region": "South",
+      "campaign": "social",
+      "appOpens": 415,
+      "activeUsers": 158,
+      "notificationsSent": 337,
+      "notificationsOpened": 86
+    },
+    {
+      "date": "2026-01-07",
+      "platform": "iOS",
+      "region": "West",
+      "campaign": "email",
+      "appOpens": 1053,
+      "activeUsers": 402,
+      "notificationsSent": 224,
+      "notificationsOpened": 62
+    },
+    {
+      "date": "2026-01-07",
+      "platform": "Web",
+      "region": "North",
+      "campaign": "organic",
+      "appOpens": 1134,
+      "activeUsers": 188,
+      "notificationsSent": 248,
+      "notificationsOpened": 55
+    },
+    {
+      "date": "2026-01-07",
+      "platform": "Other",
+      "region": "East",
+      "campaign": "paid-search",
+      "appOpens": 1635,
+      "activeUsers": 93,
+      "notificationsSent": 403,
+      "notificationsOpened": 223
+    },
+    {
+      "date": "2026-01-08",
+      "platform": "Android",
+      "region": "East",
+      "campaign": "paid-search",
+      "appOpens": 865,
+      "activeUsers": 147,
+      "notificationsSent": 447,
+      "notificationsOpened": 151
+    },
+    {
+      "date": "2026-01-08",
+      "platform": "iOS",
+      "region": "Central",
+      "campaign": "social",
+      "appOpens": 1402,
+      "activeUsers": 405,
+      "notificationsSent": 107,
+      "notificationsOpened": 31
+    },
+    {
+      "date": "2026-01-08",
+      "platform": "Web",
+      "region": "South",
+      "campaign": "email",
+      "appOpens": 778,
+      "activeUsers": 370,
+      "notificationsSent": 317,
+      "notificationsOpened": 77
+    },
+    {
+      "date": "2026-01-08",
+      "platform": "Other",
+      "region": "West",
+      "campaign": "organic",
+      "appOpens": 508,
+      "activeUsers": 369,
+      "notificationsSent": 320,
+      "notificationsOpened": 162
+    },
+    {
+      "date": "2026-01-09",
+      "platform": "Android",
+      "region": "West",
+      "campaign": "organic",
+      "appOpens": 1187,
+      "activeUsers": 366,
+      "notificationsSent": 484,
+      "notificationsOpened": 268
+    },
+    {
+      "date": "2026-01-09",
+      "platform": "iOS",
+      "region": "North",
+      "campaign": "paid-search",
+      "appOpens": 742,
+      "activeUsers": 278,
+      "notificationsSent": 494,
+      "notificationsOpened": 283
+    },
+    {
+      "date": "2026-01-09",
+      "platform": "Web",
+      "region": "East",
+      "campaign": "social",
+      "appOpens": 684,
+      "activeUsers": 295,
+      "notificationsSent": 284,
+      "notificationsOpened": 132
+    },
+    {
+      "date": "2026-01-09",
+      "platform": "Other",
+      "region": "Central",
+      "campaign": "email",
+      "appOpens": 326,
+      "activeUsers": 154,
+      "notificationsSent": 359,
+      "notificationsOpened": 81
+    },
+    {
+      "date": "2026-01-10",
+      "platform": "Android",
+      "region": "Central",
+      "campaign": "email",
+      "appOpens": 1319,
+      "activeUsers": 585,
+      "notificationsSent": 90,
+      "notificationsOpened": 20
+    },
+    {
+      "date": "2026-01-10",
+      "platform": "iOS",
+      "region": "South",
+      "campaign": "organic",
+      "appOpens": 372,
+      "activeUsers": 80,
+      "notificationsSent": 301,
+      "notificationsOpened": 129
+    },
+    {
+      "date": "2026-01-10",
+      "platform": "Web",
+      "region": "West",
+      "campaign": "paid-search",
+      "appOpens": 1613,
+      "activeUsers": 778,
+      "notificationsSent": 416,
+      "notificationsOpened": 69
+    },
+    {
+      "date": "2026-01-10",
+      "platform": "Other",
+      "region": "North",
+      "campaign": "social",
+      "appOpens": 553,
+      "activeUsers": 493,
+      "notificationsSent": 306,
+      "notificationsOpened": 112
+    },
+    {
+      "date": "2026-01-11",
+      "platform": "Android",
+      "region": "North",
+      "campaign": "social",
+      "appOpens": 1207,
+      "activeUsers": 133,
+      "notificationsSent": 476,
+      "notificationsOpened": 234
+    },
+    {
+      "date": "2026-01-11",
+      "platform": "iOS",
+      "region": "East",
+      "campaign": "email",
+      "appOpens": 832,
+      "activeUsers": 254,
+      "notificationsSent": 165,
+      "notificationsOpened": 32
+    },
+    {
+      "date": "2026-01-11",
+      "platform": "Web",
+      "region": "Central",
+      "campaign": "organic",
+      "appOpens": 353,
+      "activeUsers": 270,
+      "notificationsSent": 264,
+      "notificationsOpened": 93
+    },
+    {
+      "date": "2026-01-11",
+      "platform": "Other",
+      "region": "South",
+      "campaign": "paid-search",
+      "appOpens": 814,
+      "activeUsers": 771,
+      "notificationsSent": 53,
+      "notificationsOpened": 22
+    },
+    {
+      "date": "2026-01-12",
+      "platform": "Android",
+      "region": "South",
+      "campaign": "paid-search",
+      "appOpens": 1239,
+      "activeUsers": 312,
+      "notificationsSent": 297,
+      "notificationsOpened": 133
+    },
+    {
+      "date": "2026-01-12",
+      "platform": "iOS",
+      "region": "West",
+      "campaign": "social",
+      "appOpens": 942,
+      "activeUsers": 718,
+      "notificationsSent": 112,
+      "notificationsOpened": 64
+    },
+    {
+      "date": "2026-01-12",
+      "platform": "Web",
+      "region": "North",
+      "campaign": "email",
+      "appOpens": 1354,
+      "activeUsers": 686,
+      "notificationsSent": 375,
+      "notificationsOpened": 124
+    },
+    {
+      "date": "2026-01-12",
+      "platform": "Other",
+      "region": "East",
+      "campaign": "organic",
+      "appOpens": 1331,
+      "activeUsers": 367,
+      "notificationsSent": 412,
+      "notificationsOpened": 171
+    },
+    {
+      "date": "2026-01-13",
+      "platform": "Android",
+      "region": "East",
+      "campaign": "organic",
+      "appOpens": 1287,
+      "activeUsers": 687,
+      "notificationsSent": 59,
+      "notificationsOpened": 8
+    },
+    {
+      "date": "2026-01-13",
+      "platform": "iOS",
+      "region": "Central",
+      "campaign": "paid-search",
+      "appOpens": 1036,
+      "activeUsers": 463,
+      "notificationsSent": 368,
+      "notificationsOpened": 212
+    },
+    {
+      "date": "2026-01-13",
+      "platform": "Web",
+      "region": "South",
+      "campaign": "social",
+      "appOpens": 368,
+      "activeUsers": 130,
+      "notificationsSent": 409,
+      "notificationsOpened": 106
+    },
+    {
+      "date": "2026-01-13",
+      "platform": "Other",
+      "region": "West",
+      "campaign": "email",
+      "appOpens": 561,
+      "activeUsers": 144,
+      "notificationsSent": 330,
+      "notificationsOpened": 50
+    },
+    {
+      "date": "2026-01-14",
+      "platform": "Android",
+      "region": "West",
+      "campaign": "email",
+      "appOpens": 1142,
+      "activeUsers": 638,
+      "notificationsSent": 242,
+      "notificationsOpened": 88
+    },
+    {
+      "date": "2026-01-14",
+      "platform": "iOS",
+      "region": "North",
+      "campaign": "organic",
+      "appOpens": 603,
+      "activeUsers": 326,
+      "notificationsSent": 379,
+      "notificationsOpened": 214
+    },
+    {
+      "date": "2026-01-14",
+      "platform": "Web",
+      "region": "East",
+      "campaign": "paid-search",
+      "appOpens": 285,
+      "activeUsers": 199,
+      "notificationsSent": 405,
+      "notificationsOpened": 205
+    },
+    {
+      "date": "2026-01-14",
+      "platform": "Other",
+      "region": "Central",
+      "campaign": "social",
+      "appOpens": 1234,
+      "activeUsers": 303,
+      "notificationsSent": 404,
+      "notificationsOpened": 194
+    },
+    {
+      "date": "2026-01-15",
+      "platform": "Android",
+      "region": "Central",
+      "campaign": "social",
+      "appOpens": 951,
+      "activeUsers": 154,
+      "notificationsSent": 311,
+      "notificationsOpened": 61
+    },
+    {
+      "date": "2026-01-15",
+      "platform": "iOS",
+      "region": "South",
+      "campaign": "email",
+      "appOpens": 1523,
+      "activeUsers": 564,
+      "notificationsSent": 74,
+      "notificationsOpened": 14
+    },
+    {
+      "date": "2026-01-15",
+      "platform": "Web",
+      "region": "West",
+      "campaign": "organic",
+      "appOpens": 368,
+      "activeUsers": 221,
+      "notificationsSent": 244,
+      "notificationsOpened": 123
+    },
+    {
+      "date": "2026-01-15",
+      "platform": "Other",
+      "region": "North",
+      "campaign": "paid-search",
+      "appOpens": 990,
+      "activeUsers": 202,
+      "notificationsSent": 98,
+      "notificationsOpened": 28
+    },
+    {
+      "date": "2026-01-16",
+      "platform": "Android",
+      "region": "North",
+      "campaign": "paid-search",
+      "appOpens": 256,
+      "activeUsers": 210,
+      "notificationsSent": 430,
+      "notificationsOpened": 184
+    },
+    {
+      "date": "2026-01-16",
+      "platform": "iOS",
+      "region": "East",
+      "campaign": "social",
+      "appOpens": 1504,
+      "activeUsers": 668,
+      "notificationsSent": 232,
+      "notificationsOpened": 124
+    },
+    {
+      "date": "2026-01-16",
+      "platform": "Web",
+      "region": "Central",
+      "campaign": "email",
+      "appOpens": 896,
+      "activeUsers": 355,
+      "notificationsSent": 469,
+      "notificationsOpened": 193
+    },
+    {
+      "date": "2026-01-16",
+      "platform": "Other",
+      "region": "South",
+      "campaign": "organic",
+      "appOpens": 1215,
+      "activeUsers": 354,
+      "notificationsSent": 361,
+      "notificationsOpened": 166
+    },
+    {
+      "date": "2026-01-17",
+      "platform": "Android",
+      "region": "South",
+      "campaign": "organic",
+      "appOpens": 1230,
+      "activeUsers": 424,
+      "notificationsSent": 486,
+      "notificationsOpened": 85
+    },
+    {
+      "date": "2026-01-17",
+      "platform": "iOS",
+      "region": "West",
+      "campaign": "paid-search",
+      "appOpens": 1522,
+      "activeUsers": 395,
+      "notificationsSent": 146,
+      "notificationsOpened": 22
+    },
+    {
+      "date": "2026-01-17",
+      "platform": "Web",
+      "region": "North",
+      "campaign": "social",
+      "appOpens": 798,
+      "activeUsers": 546,
+      "notificationsSent": 397,
+      "notificationsOpened": 173
+    },
+    {
+      "date": "2026-01-17",
+      "platform": "Other",
+      "region": "East",
+      "campaign": "email",
+      "appOpens": 1195,
+      "activeUsers": 174,
+      "notificationsSent": 0,
+      "notificationsOpened": 0
+    },
+    {
+      "date": "2026-01-18",
+      "platform": "Android",
+      "region": "East",
+      "campaign": "email",
+      "appOpens": 936,
+      "activeUsers": 300,
+      "notificationsSent": 467,
+      "notificationsOpened": 243
+    },
+    {
+      "date": "2026-01-18",
+      "platform": "iOS",
+      "region": "Central",
+      "campaign": "organic",
+      "appOpens": 1296,
+      "activeUsers": 267,
+      "notificationsSent": 96,
+      "notificationsOpened": 30
+    },
+    {
+      "date": "2026-01-18",
+      "platform": "Web",
+      "region": "South",
+      "campaign": "paid-search",
+      "appOpens": 439,
+      "activeUsers": 228,
+      "notificationsSent": 63,
+      "notificationsOpened": 22
+    },
+    {
+      "date": "2026-01-18",
+      "platform": "Other",
+      "region": "West",
+      "campaign": "social",
+      "appOpens": 827,
+      "activeUsers": 230,
+      "notificationsSent": 389,
+      "notificationsOpened": 119
+    },
+    {
+      "date": "2026-01-19",
+      "platform": "Android",
+      "region": "West",
+      "campaign": "social",
+      "appOpens": 553,
+      "activeUsers": 127,
+      "notificationsSent": 128,
+      "notificationsOpened": 43
+    },
+    {
+      "date": "2026-01-19",
+      "platform": "iOS",
+      "region": "North",
+      "campaign": "email",
+      "appOpens": 1249,
+      "activeUsers": 304,
+      "notificationsSent": 256,
+      "notificationsOpened": 67
+    },
+    {
+      "date": "2026-01-19",
+      "platform": "Web",
+      "region": "East",
+      "campaign": "organic",
+      "appOpens": 733,
+      "activeUsers": 668,
+      "notificationsSent": 466,
+      "notificationsOpened": 198
+    },
+    {
+      "date": "2026-01-19",
+      "platform": "Other",
+      "region": "Central",
+      "campaign": "paid-search",
+      "appOpens": 528,
+      "activeUsers": 437,
+      "notificationsSent": 153,
+      "notificationsOpened": 55
+    },
+    {
+      "date": "2026-01-20",
+      "platform": "Android",
+      "region": "Central",
+      "campaign": "paid-search",
+      "appOpens": 1313,
+      "activeUsers": 221,
+      "notificationsSent": 67,
+      "notificationsOpened": 24
+    },
+    {
+      "date": "2026-01-20",
+      "platform": "iOS",
+      "region": "South",
+      "campaign": "social",
+      "appOpens": 336,
+      "activeUsers": 229,
+      "notificationsSent": 300,
+      "notificationsOpened": 73
+    },
+    {
+      "date": "2026-01-20",
+      "platform": "Web",
+      "region": "West",
+      "campaign": "email",
+      "appOpens": 957,
+      "activeUsers": 762,
+      "notificationsSent": 299,
+      "notificationsOpened": 89
+    },
+    {
+      "date": "2026-01-20",
+      "platform": "Other",
+      "region": "North",
+      "campaign": "organic",
+      "appOpens": 1440,
+      "activeUsers": 569,
+      "notificationsSent": 404,
+      "notificationsOpened": 142
+    },
+    {
+      "date": "2026-01-21",
+      "platform": "Android",
+      "region": "North",
+      "campaign": "organic",
+      "appOpens": 482,
+      "activeUsers": 376,
+      "notificationsSent": 480,
+      "notificationsOpened": 142
+    },
+    {
+      "date": "2026-01-21",
+      "platform": "iOS",
+      "region": "East",
+      "campaign": "paid-search",
+      "appOpens": 1272,
+      "activeUsers": 278,
+      "notificationsSent": 307,
+      "notificationsOpened": 130
+    },
+    {
+      "date": "2026-01-21",
+      "platform": "Web",
+      "region": "Central",
+      "campaign": "social",
+      "appOpens": 482,
+      "activeUsers": 91,
+      "notificationsSent": 230,
+      "notificationsOpened": 71
+    },
+    {
+      "date": "2026-01-21",
+      "platform": "Other",
+      "region": "South",
+      "campaign": "email",
+      "appOpens": 694,
+      "activeUsers": 665,
+      "notificationsSent": 209,
+      "notificationsOpened": 36
+    },
+    {
+      "date": "2026-01-22",
+      "platform": "Android",
+      "region": "South",
+      "campaign": "email",
+      "appOpens": 1134,
+      "activeUsers": 329,
+      "notificationsSent": 491,
+      "notificationsOpened": 242
+    },
+    {
+      "date": "2026-01-22",
+      "platform": "iOS",
+      "region": "West",
+      "campaign": "organic",
+      "appOpens": 349,
+      "activeUsers": 177,
+      "notificationsSent": 472,
+      "notificationsOpened": 188
+    },
+    {
+      "date": "2026-01-22",
+      "platform": "Web",
+      "region": "North",
+      "campaign": "paid-search",
+      "appOpens": 1385,
+      "activeUsers": 386,
+      "notificationsSent": 92,
+      "notificationsOpened": 45
+    },
+    {
+      "date": "2026-01-22",
+      "platform": "Other",
+      "region": "East",
+      "campaign": "social",
+      "appOpens": 594,
+      "activeUsers": 163,
+      "notificationsSent": 108,
+      "notificationsOpened": 27
+    },
+    {
+      "date": "2026-01-23",
+      "platform": "Android",
+      "region": "East",
+      "campaign": "social",
+      "appOpens": 341,
+      "activeUsers": 188,
+      "notificationsSent": 424,
+      "notificationsOpened": 219
+    },
+    {
+      "date": "2026-01-23",
+      "platform": "iOS",
+      "region": "Central",
+      "campaign": "email",
+      "appOpens": 830,
+      "activeUsers": 230,
+      "notificationsSent": 230,
+      "notificationsOpened": 111
+    },
+    {
+      "date": "2026-01-23",
+      "platform": "Web",
+      "region": "South",
+      "campaign": "organic",
+      "appOpens": 829,
+      "activeUsers": 65,
+      "notificationsSent": 259,
+      "notificationsOpened": 124
+    },
+    {
+      "date": "2026-01-23",
+      "platform": "Other",
+      "region": "West",
+      "campaign": "paid-search",
+      "appOpens": 1008,
+      "activeUsers": 751,
+      "notificationsSent": 349,
+      "notificationsOpened": 192
+    },
+    {
+      "date": "2026-01-24",
+      "platform": "Android",
+      "region": "West",
+      "campaign": "paid-search",
+      "appOpens": 1159,
+      "activeUsers": 443,
+      "notificationsSent": 485,
+      "notificationsOpened": 200
+    },
+    {
+      "date": "2026-01-24",
+      "platform": "iOS",
+      "region": "North",
+      "campaign": "social",
+      "appOpens": 1134,
+      "activeUsers": 450,
+      "notificationsSent": 84,
+      "notificationsOpened": 22
+    },
+    {
+      "date": "2026-01-24",
+      "platform": "Web",
+      "region": "East",
+      "campaign": "email",
+      "appOpens": 259,
+      "activeUsers": 60,
+      "notificationsSent": 326,
+      "notificationsOpened": 116
+    },
+    {
+      "date": "2026-01-24",
+      "platform": "Other",
+      "region": "Central",
+      "campaign": "organic",
+      "appOpens": 1553,
+      "activeUsers": 638,
+      "notificationsSent": 462,
+      "notificationsOpened": 215
+    },
+    {
+      "date": "2026-01-25",
+      "platform": "Android",
+      "region": "Central",
+      "campaign": "organic",
+      "appOpens": 815,
+      "activeUsers": 322,
+      "notificationsSent": 338,
+      "notificationsOpened": 54
+    },
+    {
+      "date": "2026-01-25",
+      "platform": "iOS",
+      "region": "South",
+      "campaign": "paid-search",
+      "appOpens": 1223,
+      "activeUsers": 733,
+      "notificationsSent": 286,
+      "notificationsOpened": 93
+    },
+    {
+      "date": "2026-01-25",
+      "platform": "Web",
+      "region": "West",
+      "campaign": "social",
+      "appOpens": 583,
+      "activeUsers": 215,
+      "notificationsSent": 485,
+      "notificationsOpened": 274
+    },
+    {
+      "date": "2026-01-25",
+      "platform": "Other",
+      "region": "North",
+      "campaign": "email",
+      "appOpens": 982,
+      "activeUsers": 728,
+      "notificationsSent": 189,
+      "notificationsOpened": 27
+    },
+    {
+      "date": "2026-01-26",
+      "platform": "Android",
+      "region": "North",
+      "campaign": "email",
+      "appOpens": 1297,
+      "activeUsers": 443,
+      "notificationsSent": 487,
+      "notificationsOpened": 256
+    },
+    {
+      "date": "2026-01-26",
+      "platform": "iOS",
+      "region": "East",
+      "campaign": "organic",
+      "appOpens": 591,
+      "activeUsers": 119,
+      "notificationsSent": 413,
+      "notificationsOpened": 141
+    },
+    {
+      "date": "2026-01-26",
+      "platform": "Web",
+      "region": "Central",
+      "campaign": "paid-search",
+      "appOpens": 1563,
+      "activeUsers": 368,
+      "notificationsSent": 205,
+      "notificationsOpened": 89
+    },
+    {
+      "date": "2026-01-26",
+      "platform": "Other",
+      "region": "South",
+      "campaign": "social",
+      "appOpens": 776,
+      "activeUsers": 222,
+      "notificationsSent": 412,
+      "notificationsOpened": 158
+    },
+    {
+      "date": "2026-01-27",
+      "platform": "Android",
+      "region": "South",
+      "campaign": "social",
+      "appOpens": 338,
+      "activeUsers": 208,
+      "notificationsSent": 498,
+      "notificationsOpened": 98
+    },
+    {
+      "date": "2026-01-27",
+      "platform": "iOS",
+      "region": "West",
+      "campaign": "email",
+      "appOpens": 450,
+      "activeUsers": 211,
+      "notificationsSent": 294,
+      "notificationsOpened": 109
+    },
+    {
+      "date": "2026-01-27",
+      "platform": "Web",
+      "region": "North",
+      "campaign": "organic",
+      "appOpens": 1200,
+      "activeUsers": 181,
+      "notificationsSent": 60,
+      "notificationsOpened": 24
+    },
+    {
+      "date": "2026-01-27",
+      "platform": "Other",
+      "region": "East",
+      "campaign": "paid-search",
+      "appOpens": 326,
+      "activeUsers": 284,
+      "notificationsSent": 478,
+      "notificationsOpened": 118
+    },
+    {
+      "date": "2026-01-28",
+      "platform": "Android",
+      "region": "East",
+      "campaign": "paid-search",
+      "appOpens": 605,
+      "activeUsers": 209,
+      "notificationsSent": 383,
+      "notificationsOpened": 116
+    },
+    {
+      "date": "2026-01-28",
+      "platform": "iOS",
+      "region": "Central",
+      "campaign": "social",
+      "appOpens": 317,
+      "activeUsers": 241,
+      "notificationsSent": 492,
+      "notificationsOpened": 148
+    },
+    {
+      "date": "2026-01-28",
+      "platform": "Web",
+      "region": "South",
+      "campaign": "email",
+      "appOpens": 725,
+      "activeUsers": 603,
+      "notificationsSent": 403,
+      "notificationsOpened": 229
+    },
+    {
+      "date": "2026-01-28",
+      "platform": "Other",
+      "region": "West",
+      "campaign": "organic",
+      "appOpens": 522,
+      "activeUsers": 154,
+      "notificationsSent": 484,
+      "notificationsOpened": 95
+    },
+    {
+      "date": "2026-01-29",
+      "platform": "Android",
+      "region": "West",
+      "campaign": "organic",
+      "appOpens": 687,
+      "activeUsers": 198,
+      "notificationsSent": 172,
+      "notificationsOpened": 33
+    },
+    {
+      "date": "2026-01-29",
+      "platform": "iOS",
+      "region": "North",
+      "campaign": "paid-search",
+      "appOpens": 1603,
+      "activeUsers": 151,
+      "notificationsSent": 78,
+      "notificationsOpened": 17
+    },
+    {
+      "date": "2026-01-29",
+      "platform": "Web",
+      "region": "East",
+      "campaign": "social",
+      "appOpens": 1184,
+      "activeUsers": 351,
+      "notificationsSent": 53,
+      "notificationsOpened": 28
+    },
+    {
+      "date": "2026-01-29",
+      "platform": "Other",
+      "region": "Central",
+      "campaign": "email",
+      "appOpens": 344,
+      "activeUsers": 221,
+      "notificationsSent": 396,
+      "notificationsOpened": 67
+    },
+    {
+      "date": "2026-01-30",
+      "platform": "Android",
+      "region": "Central",
+      "campaign": "email",
+      "appOpens": 1483,
+      "activeUsers": 658,
+      "notificationsSent": 399,
+      "notificationsOpened": 227
+    },
+    {
+      "date": "2026-01-30",
+      "platform": "iOS",
+      "region": "South",
+      "campaign": "organic",
+      "appOpens": 1402,
+      "activeUsers": 144,
+      "notificationsSent": 262,
+      "notificationsOpened": 95
+    },
+    {
+      "date": "2026-01-30",
+      "platform": "Web",
+      "region": "West",
+      "campaign": "paid-search",
+      "appOpens": 1423,
+      "activeUsers": 96,
+      "notificationsSent": 363,
+      "notificationsOpened": 121
+    },
+    {
+      "date": "2026-01-30",
+      "platform": "Other",
+      "region": "North",
+      "campaign": "social",
+      "appOpens": 445,
+      "activeUsers": 132,
+      "notificationsSent": 86,
+      "notificationsOpened": 35
+    },
+    {
+      "date": "2026-01-31",
+      "platform": "Android",
+      "region": "North",
+      "campaign": "social",
+      "appOpens": 1389,
+      "activeUsers": 577,
+      "notificationsSent": 324,
+      "notificationsOpened": 53
+    },
+    {
+      "date": "2026-01-31",
+      "platform": "iOS",
+      "region": "East",
+      "campaign": "email",
+      "appOpens": 274,
+      "activeUsers": 242,
+      "notificationsSent": 371,
+      "notificationsOpened": 188
+    },
+    {
+      "date": "2026-01-31",
+      "platform": "Web",
+      "region": "Central",
+      "campaign": "organic",
+      "appOpens": 283,
+      "activeUsers": 133,
+      "notificationsSent": 305,
+      "notificationsOpened": 84
+    },
+    {
+      "date": "2026-01-31",
+      "platform": "Other",
+      "region": "South",
+      "campaign": "paid-search",
+      "appOpens": 1140,
+      "activeUsers": 608,
+      "notificationsSent": 254,
+      "notificationsOpened": 117
+    },
+    {
+      "date": "2026-02-01",
+      "platform": "Android",
+      "region": "South",
+      "campaign": "paid-search",
+      "appOpens": 1282,
+      "activeUsers": 172,
+      "notificationsSent": 211,
+      "notificationsOpened": 59
+    },
+    {
+      "date": "2026-02-01",
+      "platform": "iOS",
+      "region": "West",
+      "campaign": "social",
+      "appOpens": 1637,
+      "activeUsers": 441,
+      "notificationsSent": 123,
+      "notificationsOpened": 48
+    },
+    {
+      "date": "2026-02-01",
+      "platform": "Web",
+      "region": "North",
+      "campaign": "email",
+      "appOpens": 1580,
+      "activeUsers": 468,
+      "notificationsSent": 96,
+      "notificationsOpened": 42
+    },
+    {
+      "date": "2026-02-01",
+      "platform": "Other",
+      "region": "East",
+      "campaign": "organic",
+      "appOpens": 395,
+      "activeUsers": 225,
+      "notificationsSent": 209,
+      "notificationsOpened": 97
+    },
+    {
+      "date": "2026-02-02",
+      "platform": "Android",
+      "region": "East",
+      "campaign": "organic",
+      "appOpens": 1115,
+      "activeUsers": 291,
+      "notificationsSent": 460,
+      "notificationsOpened": 252
+    },
+    {
+      "date": "2026-02-02",
+      "platform": "iOS",
+      "region": "Central",
+      "campaign": "paid-search",
+      "appOpens": 1351,
+      "activeUsers": 532,
+      "notificationsSent": 111,
+      "notificationsOpened": 60
+    },
+    {
+      "date": "2026-02-02",
+      "platform": "Web",
+      "region": "South",
+      "campaign": "social",
+      "appOpens": 895,
+      "activeUsers": 786,
+      "notificationsSent": 325,
+      "notificationsOpened": 183
+    },
+    {
+      "date": "2026-02-02",
+      "platform": "Other",
+      "region": "West",
+      "campaign": "email",
+      "appOpens": 1613,
+      "activeUsers": 653,
+      "notificationsSent": 146,
+      "notificationsOpened": 23
+    },
+    {
+      "date": "2026-02-03",
+      "platform": "Android",
+      "region": "West",
+      "campaign": "email",
+      "appOpens": 698,
+      "activeUsers": 374,
+      "notificationsSent": 284,
+      "notificationsOpened": 63
+    },
+    {
+      "date": "2026-02-03",
+      "platform": "iOS",
+      "region": "North",
+      "campaign": "organic",
+      "appOpens": 1108,
+      "activeUsers": 343,
+      "notificationsSent": 479,
+      "notificationsOpened": 159
+    },
+    {
+      "date": "2026-02-03",
+      "platform": "Web",
+      "region": "East",
+      "campaign": "paid-search",
+      "appOpens": 365,
+      "activeUsers": 140,
+      "notificationsSent": 184,
+      "notificationsOpened": 79
+    },
+    {
+      "date": "2026-02-03",
+      "platform": "Other",
+      "region": "Central",
+      "campaign": "social",
+      "appOpens": 421,
+      "activeUsers": 142,
+      "notificationsSent": 276,
+      "notificationsOpened": 41
+    },
+    {
+      "date": "2026-02-04",
+      "platform": "Android",
+      "region": "Central",
+      "campaign": "social",
+      "appOpens": 486,
+      "activeUsers": 279,
+      "notificationsSent": 435,
+      "notificationsOpened": 172
+    },
+    {
+      "date": "2026-02-04",
+      "platform": "iOS",
+      "region": "South",
+      "campaign": "email",
+      "appOpens": 819,
+      "activeUsers": 721,
+      "notificationsSent": 496,
+      "notificationsOpened": 106
+    },
+    {
+      "date": "2026-02-04",
+      "platform": "Web",
+      "region": "West",
+      "campaign": "organic",
+      "appOpens": 1064,
+      "activeUsers": 651,
+      "notificationsSent": 193,
+      "notificationsOpened": 45
+    },
+    {
+      "date": "2026-02-04",
+      "platform": "Other",
+      "region": "North",
+      "campaign": "paid-search",
+      "appOpens": 860,
+      "activeUsers": 96,
+      "notificationsSent": 400,
+      "notificationsOpened": 187
+    },
+    {
+      "date": "2026-02-05",
+      "platform": "Android",
+      "region": "North",
+      "campaign": "paid-search",
+      "appOpens": 972,
+      "activeUsers": 85,
+      "notificationsSent": 82,
+      "notificationsOpened": 19
+    },
+    {
+      "date": "2026-02-05",
+      "platform": "iOS",
+      "region": "East",
+      "campaign": "social",
+      "appOpens": 799,
+      "activeUsers": 463,
+      "notificationsSent": 392,
+      "notificationsOpened": 91
+    },
+    {
+      "date": "2026-02-05",
+      "platform": "Web",
+      "region": "Central",
+      "campaign": "email",
+      "appOpens": 997,
+      "activeUsers": 662,
+      "notificationsSent": 430,
+      "notificationsOpened": 218
+    },
+    {
+      "date": "2026-02-05",
+      "platform": "Other",
+      "region": "South",
+      "campaign": "organic",
+      "appOpens": 768,
+      "activeUsers": 334,
+      "notificationsSent": 391,
+      "notificationsOpened": 184
+    },
+    {
+      "date": "2026-02-06",
+      "platform": "Android",
+      "region": "South",
+      "campaign": "organic",
+      "appOpens": 668,
+      "activeUsers": 568,
+      "notificationsSent": 444,
+      "notificationsOpened": 251
+    },
+    {
+      "date": "2026-02-06",
+      "platform": "iOS",
+      "region": "West",
+      "campaign": "paid-search",
+      "appOpens": 1158,
+      "activeUsers": 307,
+      "notificationsSent": 478,
+      "notificationsOpened": 201
+    },
+    {
+      "date": "2026-02-06",
+      "platform": "Web",
+      "region": "North",
+      "campaign": "social",
+      "appOpens": 1481,
+      "activeUsers": 736,
+      "notificationsSent": 108,
+      "notificationsOpened": 19
+    },
+    {
+      "date": "2026-02-06",
+      "platform": "Other",
+      "region": "East",
+      "campaign": "email",
+      "appOpens": 974,
+      "activeUsers": 531,
+      "notificationsSent": 222,
+      "notificationsOpened": 32
+    },
+    {
+      "date": "2026-02-07",
+      "platform": "Android",
+      "region": "East",
+      "campaign": "email",
+      "appOpens": 1096,
+      "activeUsers": 135,
+      "notificationsSent": 311,
+      "notificationsOpened": 39
+    },
+    {
+      "date": "2026-02-07",
+      "platform": "iOS",
+      "region": "Central",
+      "campaign": "organic",
+      "appOpens": 1188,
+      "activeUsers": 160,
+      "notificationsSent": 282,
+      "notificationsOpened": 65
+    },
+    {
+      "date": "2026-02-07",
+      "platform": "Web",
+      "region": "South",
+      "campaign": "paid-search",
+      "appOpens": 938,
+      "activeUsers": 259,
+      "notificationsSent": 304,
+      "notificationsOpened": 51
+    },
+    {
+      "date": "2026-02-07",
+      "platform": "Other",
+      "region": "West",
+      "campaign": "social",
+      "appOpens": 478,
+      "activeUsers": 367,
+      "notificationsSent": 441,
+      "notificationsOpened": 208
+    },
+    {
+      "date": "2026-02-08",
+      "platform": "Android",
+      "region": "West",
+      "campaign": "social",
+      "appOpens": 574,
+      "activeUsers": 496,
+      "notificationsSent": 129,
+      "notificationsOpened": 67
+    },
+    {
+      "date": "2026-02-08",
+      "platform": "iOS",
+      "region": "North",
+      "campaign": "email",
+      "appOpens": 1548,
+      "activeUsers": 86,
+      "notificationsSent": 369,
+      "notificationsOpened": 115
+    },
+    {
+      "date": "2026-02-08",
+      "platform": "Web",
+      "region": "East",
+      "campaign": "organic",
+      "appOpens": 1282,
+      "activeUsers": 50,
+      "notificationsSent": 387,
+      "notificationsOpened": 218
+    },
+    {
+      "date": "2026-02-08",
+      "platform": "Other",
+      "region": "Central",
+      "campaign": "paid-search",
+      "appOpens": 1445,
+      "activeUsers": 422,
+      "notificationsSent": 403,
+      "notificationsOpened": 49
+    },
+    {
+      "date": "2026-02-09",
+      "platform": "Android",
+      "region": "Central",
+      "campaign": "paid-search",
+      "appOpens": 606,
+      "activeUsers": 97,
+      "notificationsSent": 223,
+      "notificationsOpened": 36
+    },
+    {
+      "date": "2026-02-09",
+      "platform": "iOS",
+      "region": "South",
+      "campaign": "social",
+      "appOpens": 854,
+      "activeUsers": 539,
+      "notificationsSent": 125,
+      "notificationsOpened": 69
+    },
+    {
+      "date": "2026-02-09",
+      "platform": "Web",
+      "region": "West",
+      "campaign": "email",
+      "appOpens": 301,
+      "activeUsers": 149,
+      "notificationsSent": 296,
+      "notificationsOpened": 148
+    },
+    {
+      "date": "2026-02-09",
+      "platform": "Other",
+      "region": "North",
+      "campaign": "organic",
+      "appOpens": 1589,
+      "activeUsers": 722,
+      "notificationsSent": 95,
+      "notificationsOpened": 41
+    },
+    {
+      "date": "2026-02-10",
+      "platform": "Android",
+      "region": "North",
+      "campaign": "organic",
+      "appOpens": 1065,
+      "activeUsers": 229,
+      "notificationsSent": 376,
+      "notificationsOpened": 62
+    },
+    {
+      "date": "2026-02-10",
+      "platform": "iOS",
+      "region": "East",
+      "campaign": "paid-search",
+      "appOpens": 664,
+      "activeUsers": 294,
+      "notificationsSent": 484,
+      "notificationsOpened": 246
+    },
+    {
+      "date": "2026-02-10",
+      "platform": "Web",
+      "region": "Central",
+      "campaign": "social",
+      "appOpens": 852,
+      "activeUsers": 287,
+      "notificationsSent": 118,
+      "notificationsOpened": 47
+    },
+    {
+      "date": "2026-02-10",
+      "platform": "Other",
+      "region": "South",
+      "campaign": "email",
+      "appOpens": 560,
+      "activeUsers": 258,
+      "notificationsSent": 166,
+      "notificationsOpened": 44
+    },
+    {
+      "date": "2026-02-11",
+      "platform": "Android",
+      "region": "South",
+      "campaign": "email",
+      "appOpens": 985,
+      "activeUsers": 367,
+      "notificationsSent": 312,
+      "notificationsOpened": 179
+    },
+    {
+      "date": "2026-02-11",
+      "platform": "iOS",
+      "region": "West",
+      "campaign": "organic",
+      "appOpens": 670,
+      "activeUsers": 588,
+      "notificationsSent": 354,
+      "notificationsOpened": 56
+    },
+    {
+      "date": "2026-02-11",
+      "platform": "Web",
+      "region": "North",
+      "campaign": "paid-search",
+      "appOpens": 443,
+      "activeUsers": 231,
+      "notificationsSent": 116,
+      "notificationsOpened": 57
+    },
+    {
+      "date": "2026-02-11",
+      "platform": "Other",
+      "region": "East",
+      "campaign": "social",
+      "appOpens": 736,
+      "activeUsers": 263,
+      "notificationsSent": 154,
+      "notificationsOpened": 78
+    },
+    {
+      "date": "2026-02-12",
+      "platform": "Android",
+      "region": "East",
+      "campaign": "social",
+      "appOpens": 746,
+      "activeUsers": 577,
+      "notificationsSent": 166,
+      "notificationsOpened": 48
+    },
+    {
+      "date": "2026-02-12",
+      "platform": "iOS",
+      "region": "Central",
+      "campaign": "email",
+      "appOpens": 879,
+      "activeUsers": 129,
+      "notificationsSent": 248,
+      "notificationsOpened": 87
+    },
+    {
+      "date": "2026-02-12",
+      "platform": "Web",
+      "region": "South",
+      "campaign": "organic",
+      "appOpens": 423,
+      "activeUsers": 309,
+      "notificationsSent": 309,
+      "notificationsOpened": 86
+    },
+    {
+      "date": "2026-02-12",
+      "platform": "Other",
+      "region": "West",
+      "campaign": "paid-search",
+      "appOpens": 1004,
+      "activeUsers": 792,
+      "notificationsSent": 314,
+      "notificationsOpened": 99
+    },
+    {
+      "date": "2026-02-13",
+      "platform": "Android",
+      "region": "West",
+      "campaign": "paid-search",
+      "appOpens": 1464,
+      "activeUsers": 554,
+      "notificationsSent": 69,
+      "notificationsOpened": 13
+    },
+    {
+      "date": "2026-02-13",
+      "platform": "iOS",
+      "region": "North",
+      "campaign": "social",
+      "appOpens": 1006,
+      "activeUsers": 743,
+      "notificationsSent": 60,
+      "notificationsOpened": 22
+    },
+    {
+      "date": "2026-02-13",
+      "platform": "Web",
+      "region": "East",
+      "campaign": "email",
+      "appOpens": 1168,
+      "activeUsers": 312,
+      "notificationsSent": 495,
+      "notificationsOpened": 134
+    },
+    {
+      "date": "2026-02-13",
+      "platform": "Other",
+      "region": "Central",
+      "campaign": "organic",
+      "appOpens": 352,
+      "activeUsers": 128,
+      "notificationsSent": 299,
+      "notificationsOpened": 73
+    },
+    {
+      "date": "2026-02-14",
+      "platform": "Android",
+      "region": "Central",
+      "campaign": "organic",
+      "appOpens": 1573,
+      "activeUsers": 225,
+      "notificationsSent": 174,
+      "notificationsOpened": 52
+    },
+    {
+      "date": "2026-02-14",
+      "platform": "iOS",
+      "region": "South",
+      "campaign": "paid-search",
+      "appOpens": 1260,
+      "activeUsers": 212,
+      "notificationsSent": 444,
+      "notificationsOpened": 83
+    },
+    {
+      "date": "2026-02-14",
+      "platform": "Web",
+      "region": "West",
+      "campaign": "social",
+      "appOpens": 1472,
+      "activeUsers": 462,
+      "notificationsSent": 286,
+      "notificationsOpened": 154
+    },
+    {
+      "date": "2026-02-14",
+      "platform": "Other",
+      "region": "North",
+      "campaign": "email",
+      "appOpens": 1457,
+      "activeUsers": 556,
+      "notificationsSent": 84,
+      "notificationsOpened": 27
+    },
+    {
+      "date": "2026-02-15",
+      "platform": "Android",
+      "region": "North",
+      "campaign": "email",
+      "appOpens": 420,
+      "activeUsers": 216,
+      "notificationsSent": 230,
+      "notificationsOpened": 31
+    },
+    {
+      "date": "2026-02-15",
+      "platform": "iOS",
+      "region": "East",
+      "campaign": "organic",
+      "appOpens": 331,
+      "activeUsers": 127,
+      "notificationsSent": 141,
+      "notificationsOpened": 46
+    },
+    {
+      "date": "2026-02-15",
+      "platform": "Web",
+      "region": "Central",
+      "campaign": "paid-search",
+      "appOpens": 729,
+      "activeUsers": 398,
+      "notificationsSent": 481,
+      "notificationsOpened": 76
+    },
+    {
+      "date": "2026-02-15",
+      "platform": "Other",
+      "region": "South",
+      "campaign": "social",
+      "appOpens": 267,
+      "activeUsers": 233,
+      "notificationsSent": 447,
+      "notificationsOpened": 194
+    },
+    {
+      "date": "2026-02-16",
+      "platform": "Android",
+      "region": "South",
+      "campaign": "social",
+      "appOpens": 446,
+      "activeUsers": 279,
+      "notificationsSent": 69,
+      "notificationsOpened": 33
+    },
+    {
+      "date": "2026-02-16",
+      "platform": "iOS",
+      "region": "West",
+      "campaign": "email",
+      "appOpens": 375,
+      "activeUsers": 83,
+      "notificationsSent": 59,
+      "notificationsOpened": 27
+    },
+    {
+      "date": "2026-02-16",
+      "platform": "Web",
+      "region": "North",
+      "campaign": "organic",
+      "appOpens": 1125,
+      "activeUsers": 704,
+      "notificationsSent": 396,
+      "notificationsOpened": 138
+    },
+    {
+      "date": "2026-02-16",
+      "platform": "Other",
+      "region": "East",
+      "campaign": "paid-search",
+      "appOpens": 796,
+      "activeUsers": 596,
+      "notificationsSent": 294,
+      "notificationsOpened": 63
+    },
+    {
+      "date": "2026-02-17",
+      "platform": "Android",
+      "region": "East",
+      "campaign": "paid-search",
+      "appOpens": 978,
+      "activeUsers": 390,
+      "notificationsSent": 74,
+      "notificationsOpened": 41
+    },
+    {
+      "date": "2026-02-17",
+      "platform": "iOS",
+      "region": "Central",
+      "campaign": "social",
+      "appOpens": 808,
+      "activeUsers": 585,
+      "notificationsSent": 150,
+      "notificationsOpened": 27
+    },
+    {
+      "date": "2026-02-17",
+      "platform": "Web",
+      "region": "South",
+      "campaign": "email",
+      "appOpens": 1423,
+      "activeUsers": 786,
+      "notificationsSent": 142,
+      "notificationsOpened": 34
+    },
+    {
+      "date": "2026-02-17",
+      "platform": "Other",
+      "region": "West",
+      "campaign": "organic",
+      "appOpens": 507,
+      "activeUsers": 504,
+      "notificationsSent": 293,
+      "notificationsOpened": 104
+    },
+    {
+      "date": "2026-02-18",
+      "platform": "Android",
+      "region": "West",
+      "campaign": "organic",
+      "appOpens": 413,
+      "activeUsers": 333,
+      "notificationsSent": 315,
+      "notificationsOpened": 65
+    },
+    {
+      "date": "2026-02-18",
+      "platform": "iOS",
+      "region": "North",
+      "campaign": "paid-search",
+      "appOpens": 486,
+      "activeUsers": 251,
+      "notificationsSent": 338,
+      "notificationsOpened": 112
+    },
+    {
+      "date": "2026-02-18",
+      "platform": "Web",
+      "region": "East",
+      "campaign": "social",
+      "appOpens": 553,
+      "activeUsers": 165,
+      "notificationsSent": 204,
+      "notificationsOpened": 95
+    },
+    {
+      "date": "2026-02-18",
+      "platform": "Other",
+      "region": "Central",
+      "campaign": "email",
+      "appOpens": 897,
+      "activeUsers": 242,
+      "notificationsSent": 195,
+      "notificationsOpened": 44
+    },
+    {
+      "date": "2026-02-19",
+      "platform": "Android",
+      "region": "Central",
+      "campaign": "email",
+      "appOpens": 1208,
+      "activeUsers": 395,
+      "notificationsSent": 123,
+      "notificationsOpened": 31
+    },
+    {
+      "date": "2026-02-19",
+      "platform": "iOS",
+      "region": "South",
+      "campaign": "organic",
+      "appOpens": 1299,
+      "activeUsers": 310,
+      "notificationsSent": 99,
+      "notificationsOpened": 15
+    },
+    {
+      "date": "2026-02-19",
+      "platform": "Web",
+      "region": "West",
+      "campaign": "paid-search",
+      "appOpens": 1196,
+      "activeUsers": 320,
+      "notificationsSent": 117,
+      "notificationsOpened": 39
+    },
+    {
+      "date": "2026-02-19",
+      "platform": "Other",
+      "region": "North",
+      "campaign": "social",
+      "appOpens": 1293,
+      "activeUsers": 398,
+      "notificationsSent": 217,
+      "notificationsOpened": 115
+    },
+    {
+      "date": "2026-02-20",
+      "platform": "Android",
+      "region": "North",
+      "campaign": "social",
+      "appOpens": 867,
+      "activeUsers": 726,
+      "notificationsSent": 371,
+      "notificationsOpened": 62
+    },
+    {
+      "date": "2026-02-20",
+      "platform": "iOS",
+      "region": "East",
+      "campaign": "email",
+      "appOpens": 553,
+      "activeUsers": 213,
+      "notificationsSent": 285,
+      "notificationsOpened": 122
+    },
+    {
+      "date": "2026-02-20",
+      "platform": "Web",
+      "region": "Central",
+      "campaign": "organic",
+      "appOpens": 775,
+      "activeUsers": 609,
+      "notificationsSent": 296,
+      "notificationsOpened": 141
+    },
+    {
+      "date": "2026-02-20",
+      "platform": "Other",
+      "region": "South",
+      "campaign": "paid-search",
+      "appOpens": 1031,
+      "activeUsers": 176,
+      "notificationsSent": 169,
+      "notificationsOpened": 80
+    },
+    {
+      "date": "2026-02-21",
+      "platform": "Android",
+      "region": "South",
+      "campaign": "paid-search",
+      "appOpens": 1128,
+      "activeUsers": 293,
+      "notificationsSent": 348,
+      "notificationsOpened": 85
+    },
+    {
+      "date": "2026-02-21",
+      "platform": "iOS",
+      "region": "West",
+      "campaign": "social",
+      "appOpens": 1562,
+      "activeUsers": 515,
+      "notificationsSent": 457,
+      "notificationsOpened": 62
+    },
+    {
+      "date": "2026-02-21",
+      "platform": "Web",
+      "region": "North",
+      "campaign": "email",
+      "appOpens": 639,
+      "activeUsers": 544,
+      "notificationsSent": 264,
+      "notificationsOpened": 127
+    },
+    {
+      "date": "2026-02-21",
+      "platform": "Other",
+      "region": "East",
+      "campaign": "organic",
+      "appOpens": 1648,
+      "activeUsers": 686,
+      "notificationsSent": 380,
+      "notificationsOpened": 162
+    },
+    {
+      "date": "2026-02-22",
+      "platform": "Android",
+      "region": "East",
+      "campaign": "organic",
+      "appOpens": 351,
+      "activeUsers": 75,
+      "notificationsSent": 490,
+      "notificationsOpened": 70
+    },
+    {
+      "date": "2026-02-22",
+      "platform": "iOS",
+      "region": "Central",
+      "campaign": "paid-search",
+      "appOpens": 433,
+      "activeUsers": 67,
+      "notificationsSent": 259,
+      "notificationsOpened": 143
+    },
+    {
+      "date": "2026-02-22",
+      "platform": "Web",
+      "region": "South",
+      "campaign": "social",
+      "appOpens": 1256,
+      "activeUsers": 215,
+      "notificationsSent": 478,
+      "notificationsOpened": 85
+    },
+    {
+      "date": "2026-02-22",
+      "platform": "Other",
+      "region": "West",
+      "campaign": "email",
+      "appOpens": 666,
+      "activeUsers": 185,
+      "notificationsSent": 380,
+      "notificationsOpened": 176
+    },
+    {
+      "date": "2026-02-23",
+      "platform": "Android",
+      "region": "West",
+      "campaign": "email",
+      "appOpens": 1304,
+      "activeUsers": 784,
+      "notificationsSent": 160,
+      "notificationsOpened": 29
+    },
+    {
+      "date": "2026-02-23",
+      "platform": "iOS",
+      "region": "North",
+      "campaign": "organic",
+      "appOpens": 853,
+      "activeUsers": 277,
+      "notificationsSent": 349,
+      "notificationsOpened": 189
+    },
+    {
+      "date": "2026-02-23",
+      "platform": "Web",
+      "region": "East",
+      "campaign": "paid-search",
+      "appOpens": 1593,
+      "activeUsers": 184,
+      "notificationsSent": 109,
+      "notificationsOpened": 50
+    },
+    {
+      "date": "2026-02-23",
+      "platform": "Other",
+      "region": "Central",
+      "campaign": "social",
+      "appOpens": 786,
+      "activeUsers": 459,
+      "notificationsSent": 274,
+      "notificationsOpened": 78
+    },
+    {
+      "date": "2026-02-24",
+      "platform": "Android",
+      "region": "Central",
+      "campaign": "social",
+      "appOpens": 753,
+      "activeUsers": 440,
+      "notificationsSent": 371,
+      "notificationsOpened": 126
+    },
+    {
+      "date": "2026-02-24",
+      "platform": "iOS",
+      "region": "South",
+      "campaign": "email",
+      "appOpens": 878,
+      "activeUsers": 281,
+      "notificationsSent": 176,
+      "notificationsOpened": 25
+    },
+    {
+      "date": "2026-02-24",
+      "platform": "Web",
+      "region": "West",
+      "campaign": "organic",
+      "appOpens": 1310,
+      "activeUsers": 712,
+      "notificationsSent": 222,
+      "notificationsOpened": 108
+    },
+    {
+      "date": "2026-02-24",
+      "platform": "Other",
+      "region": "North",
+      "campaign": "paid-search",
+      "appOpens": 868,
+      "activeUsers": 793,
+      "notificationsSent": 324,
+      "notificationsOpened": 160
+    },
+    {
+      "date": "2026-02-25",
+      "platform": "Android",
+      "region": "North",
+      "campaign": "paid-search",
+      "appOpens": 1447,
+      "activeUsers": 374,
+      "notificationsSent": 217,
+      "notificationsOpened": 34
+    },
+    {
+      "date": "2026-02-25",
+      "platform": "iOS",
+      "region": "East",
+      "campaign": "social",
+      "appOpens": 722,
+      "activeUsers": 381,
+      "notificationsSent": 257,
+      "notificationsOpened": 131
+    },
+    {
+      "date": "2026-02-25",
+      "platform": "Web",
+      "region": "Central",
+      "campaign": "email",
+      "appOpens": 1543,
+      "activeUsers": 594,
+      "notificationsSent": 200,
+      "notificationsOpened": 55
+    },
+    {
+      "date": "2026-02-25",
+      "platform": "Other",
+      "region": "South",
+      "campaign": "organic",
+      "appOpens": 923,
+      "activeUsers": 675,
+      "notificationsSent": 75,
+      "notificationsOpened": 16
+    },
+    {
+      "date": "2026-02-26",
+      "platform": "Android",
+      "region": "South",
+      "campaign": "organic",
+      "appOpens": 307,
+      "activeUsers": 206,
+      "notificationsSent": 54,
+      "notificationsOpened": 26
+    },
+    {
+      "date": "2026-02-26",
+      "platform": "iOS",
+      "region": "West",
+      "campaign": "paid-search",
+      "appOpens": 740,
+      "activeUsers": 136,
+      "notificationsSent": 409,
+      "notificationsOpened": 236
+    },
+    {
+      "date": "2026-02-26",
+      "platform": "Web",
+      "region": "North",
+      "campaign": "social",
+      "appOpens": 1495,
+      "activeUsers": 528,
+      "notificationsSent": 475,
+      "notificationsOpened": 112
+    },
+    {
+      "date": "2026-02-26",
+      "platform": "Other",
+      "region": "East",
+      "campaign": "email",
+      "appOpens": 1498,
+      "activeUsers": 714,
+      "notificationsSent": 181,
+      "notificationsOpened": 46
+    },
+    {
+      "date": "2026-02-27",
+      "platform": "Android",
+      "region": "East",
+      "campaign": "email",
+      "appOpens": 415,
+      "activeUsers": 333,
+      "notificationsSent": 172,
+      "notificationsOpened": 38
+    },
+    {
+      "date": "2026-02-27",
+      "platform": "iOS",
+      "region": "Central",
+      "campaign": "organic",
+      "appOpens": 820,
+      "activeUsers": 513,
+      "notificationsSent": 223,
+      "notificationsOpened": 45
+    },
+    {
+      "date": "2026-02-27",
+      "platform": "Web",
+      "region": "South",
+      "campaign": "paid-search",
+      "appOpens": 621,
+      "activeUsers": 277,
+      "notificationsSent": 303,
+      "notificationsOpened": 174
+    },
+    {
+      "date": "2026-02-27",
+      "platform": "Other",
+      "region": "West",
+      "campaign": "social",
+      "appOpens": 267,
+      "activeUsers": 213,
+      "notificationsSent": 189,
+      "notificationsOpened": 39
+    },
+    {
+      "date": "2026-02-28",
+      "platform": "Android",
+      "region": "West",
+      "campaign": "social",
+      "appOpens": 597,
+      "activeUsers": 391,
+      "notificationsSent": 378,
+      "notificationsOpened": 112
+    },
+    {
+      "date": "2026-02-28",
+      "platform": "iOS",
+      "region": "North",
+      "campaign": "email",
+      "appOpens": 1166,
+      "activeUsers": 680,
+      "notificationsSent": 441,
+      "notificationsOpened": 242
+    },
+    {
+      "date": "2026-02-28",
+      "platform": "Web",
+      "region": "East",
+      "campaign": "organic",
+      "appOpens": 818,
+      "activeUsers": 759,
+      "notificationsSent": 498,
+      "notificationsOpened": 153
+    },
+    {
+      "date": "2026-02-28",
+      "platform": "Other",
+      "region": "Central",
+      "campaign": "paid-search",
+      "appOpens": 1215,
+      "activeUsers": 154,
+      "notificationsSent": 361,
+      "notificationsOpened": 87
+    },
+    {
+      "date": "2026-03-01",
+      "platform": "Android",
+      "region": "Central",
+      "campaign": "paid-search",
+      "appOpens": 414,
+      "activeUsers": 112,
+      "notificationsSent": 471,
+      "notificationsOpened": 199
+    },
+    {
+      "date": "2026-03-01",
+      "platform": "iOS",
+      "region": "South",
+      "campaign": "social",
+      "appOpens": 291,
+      "activeUsers": 154,
+      "notificationsSent": 291,
+      "notificationsOpened": 91
+    },
+    {
+      "date": "2026-03-01",
+      "platform": "Web",
+      "region": "West",
+      "campaign": "email",
+      "appOpens": 1608,
+      "activeUsers": 570,
+      "notificationsSent": 303,
+      "notificationsOpened": 117
+    },
+    {
+      "date": "2026-03-01",
+      "platform": "Other",
+      "region": "North",
+      "campaign": "organic",
+      "appOpens": 1428,
+      "activeUsers": 201,
+      "notificationsSent": 355,
+      "notificationsOpened": 193
+    },
+    {
+      "date": "2026-03-02",
+      "platform": "Android",
+      "region": "North",
+      "campaign": "organic",
+      "appOpens": 950,
+      "activeUsers": 92,
+      "notificationsSent": 272,
+      "notificationsOpened": 99
+    },
+    {
+      "date": "2026-03-02",
+      "platform": "iOS",
+      "region": "East",
+      "campaign": "paid-search",
+      "appOpens": 1399,
+      "activeUsers": 137,
+      "notificationsSent": 208,
+      "notificationsOpened": 50
+    },
+    {
+      "date": "2026-03-02",
+      "platform": "Web",
+      "region": "Central",
+      "campaign": "social",
+      "appOpens": 931,
+      "activeUsers": 682,
+      "notificationsSent": 125,
+      "notificationsOpened": 50
+    },
+    {
+      "date": "2026-03-02",
+      "platform": "Other",
+      "region": "South",
+      "campaign": "email",
+      "appOpens": 276,
+      "activeUsers": 235,
+      "notificationsSent": 156,
+      "notificationsOpened": 50
+    },
+    {
+      "date": "2026-03-03",
+      "platform": "Android",
+      "region": "South",
+      "campaign": "email",
+      "appOpens": 1396,
+      "activeUsers": 701,
+      "notificationsSent": 104,
+      "notificationsOpened": 32
+    },
+    {
+      "date": "2026-03-03",
+      "platform": "iOS",
+      "region": "West",
+      "campaign": "organic",
+      "appOpens": 578,
+      "activeUsers": 58,
+      "notificationsSent": 66,
+      "notificationsOpened": 18
+    },
+    {
+      "date": "2026-03-03",
+      "platform": "Web",
+      "region": "North",
+      "campaign": "paid-search",
+      "appOpens": 1530,
+      "activeUsers": 568,
+      "notificationsSent": 206,
+      "notificationsOpened": 68
+    },
+    {
+      "date": "2026-03-03",
+      "platform": "Other",
+      "region": "East",
+      "campaign": "social",
+      "appOpens": 1608,
+      "activeUsers": 740,
+      "notificationsSent": 96,
+      "notificationsOpened": 45
+    },
+    {
+      "date": "2026-03-04",
+      "platform": "Android",
+      "region": "East",
+      "campaign": "social",
+      "appOpens": 1242,
+      "activeUsers": 381,
+      "notificationsSent": 364,
+      "notificationsOpened": 129
+    },
+    {
+      "date": "2026-03-04",
+      "platform": "iOS",
+      "region": "Central",
+      "campaign": "email",
+      "appOpens": 1581,
+      "activeUsers": 767,
+      "notificationsSent": 104,
+      "notificationsOpened": 40
+    },
+    {
+      "date": "2026-03-04",
+      "platform": "Web",
+      "region": "South",
+      "campaign": "organic",
+      "appOpens": 536,
+      "activeUsers": 511,
+      "notificationsSent": 208,
+      "notificationsOpened": 93
+    },
+    {
+      "date": "2026-03-04",
+      "platform": "Other",
+      "region": "West",
+      "campaign": "paid-search",
+      "appOpens": 533,
+      "activeUsers": 441,
+      "notificationsSent": 440,
+      "notificationsOpened": 115
+    },
+    {
+      "date": "2026-03-05",
+      "platform": "Android",
+      "region": "West",
+      "campaign": "paid-search",
+      "appOpens": 1061,
+      "activeUsers": 189,
+      "notificationsSent": 208,
+      "notificationsOpened": 74
+    },
+    {
+      "date": "2026-03-05",
+      "platform": "iOS",
+      "region": "North",
+      "campaign": "social",
+      "appOpens": 1221,
+      "activeUsers": 637,
+      "notificationsSent": 58,
+      "notificationsOpened": 29
+    },
+    {
+      "date": "2026-03-05",
+      "platform": "Web",
+      "region": "East",
+      "campaign": "email",
+      "appOpens": 1460,
+      "activeUsers": 83,
+      "notificationsSent": 137,
+      "notificationsOpened": 43
+    },
+    {
+      "date": "2026-03-05",
+      "platform": "Other",
+      "region": "Central",
+      "campaign": "organic",
+      "appOpens": 1010,
+      "activeUsers": 394,
+      "notificationsSent": 62,
+      "notificationsOpened": 29
+    },
+    {
+      "date": "2026-03-06",
+      "platform": "Android",
+      "region": "Central",
+      "campaign": "organic",
+      "appOpens": 497,
+      "activeUsers": 224,
+      "notificationsSent": 273,
+      "notificationsOpened": 101
+    },
+    {
+      "date": "2026-03-06",
+      "platform": "iOS",
+      "region": "South",
+      "campaign": "paid-search",
+      "appOpens": 1350,
+      "activeUsers": 559,
+      "notificationsSent": 82,
+      "notificationsOpened": 34
+    },
+    {
+      "date": "2026-03-06",
+      "platform": "Web",
+      "region": "West",
+      "campaign": "social",
+      "appOpens": 978,
+      "activeUsers": 389,
+      "notificationsSent": 371,
+      "notificationsOpened": 207
+    },
+    {
+      "date": "2026-03-06",
+      "platform": "Other",
+      "region": "North",
+      "campaign": "email",
+      "appOpens": 1235,
+      "activeUsers": 676,
+      "notificationsSent": 71,
+      "notificationsOpened": 8
+    },
+    {
+      "date": "2026-03-07",
+      "platform": "Android",
+      "region": "North",
+      "campaign": "email",
+      "appOpens": 454,
+      "activeUsers": 264,
+      "notificationsSent": 462,
+      "notificationsOpened": 244
+    },
+    {
+      "date": "2026-03-07",
+      "platform": "iOS",
+      "region": "East",
+      "campaign": "organic",
+      "appOpens": 1255,
+      "activeUsers": 402,
+      "notificationsSent": 335,
+      "notificationsOpened": 55
+    },
+    {
+      "date": "2026-03-07",
+      "platform": "Web",
+      "region": "Central",
+      "campaign": "paid-search",
+      "appOpens": 918,
+      "activeUsers": 791,
+      "notificationsSent": 340,
+      "notificationsOpened": 154
+    },
+    {
+      "date": "2026-03-07",
+      "platform": "Other",
+      "region": "South",
+      "campaign": "social",
+      "appOpens": 1431,
+      "activeUsers": 200,
+      "notificationsSent": 241,
+      "notificationsOpened": 107
+    },
+    {
+      "date": "2026-03-08",
+      "platform": "Android",
+      "region": "South",
+      "campaign": "social",
+      "appOpens": 1083,
+      "activeUsers": 493,
+      "notificationsSent": 415,
+      "notificationsOpened": 205
+    },
+    {
+      "date": "2026-03-08",
+      "platform": "iOS",
+      "region": "West",
+      "campaign": "email",
+      "appOpens": 1240,
+      "activeUsers": 756,
+      "notificationsSent": 101,
+      "notificationsOpened": 36
+    },
+    {
+      "date": "2026-03-08",
+      "platform": "Web",
+      "region": "North",
+      "campaign": "organic",
+      "appOpens": 651,
+      "activeUsers": 127,
+      "notificationsSent": 353,
+      "notificationsOpened": 54
+    },
+    {
+      "date": "2026-03-08",
+      "platform": "Other",
+      "region": "East",
+      "campaign": "paid-search",
+      "appOpens": 430,
+      "activeUsers": 217,
+      "notificationsSent": 387,
+      "notificationsOpened": 114
+    },
+    {
+      "date": "2026-03-09",
+      "platform": "Android",
+      "region": "East",
+      "campaign": "paid-search",
+      "appOpens": 1169,
+      "activeUsers": 330,
+      "notificationsSent": 441,
+      "notificationsOpened": 140
+    },
+    {
+      "date": "2026-03-09",
+      "platform": "iOS",
+      "region": "Central",
+      "campaign": "social",
+      "appOpens": 615,
+      "activeUsers": 132,
+      "notificationsSent": 72,
+      "notificationsOpened": 23
+    },
+    {
+      "date": "2026-03-09",
+      "platform": "Web",
+      "region": "South",
+      "campaign": "email",
+      "appOpens": 673,
+      "activeUsers": 256,
+      "notificationsSent": 278,
+      "notificationsOpened": 40
+    },
+    {
+      "date": "2026-03-09",
+      "platform": "Other",
+      "region": "West",
+      "campaign": "organic",
+      "appOpens": 666,
+      "activeUsers": 271,
+      "notificationsSent": 398,
+      "notificationsOpened": 52
+    },
+    {
+      "date": "2026-03-10",
+      "platform": "Android",
+      "region": "West",
+      "campaign": "organic",
+      "appOpens": 318,
+      "activeUsers": 268,
+      "notificationsSent": 198,
+      "notificationsOpened": 63
+    },
+    {
+      "date": "2026-03-10",
+      "platform": "iOS",
+      "region": "North",
+      "campaign": "paid-search",
+      "appOpens": 1283,
+      "activeUsers": 592,
+      "notificationsSent": 126,
+      "notificationsOpened": 34
+    },
+    {
+      "date": "2026-03-10",
+      "platform": "Web",
+      "region": "East",
+      "campaign": "social",
+      "appOpens": 596,
+      "activeUsers": 229,
+      "notificationsSent": 468,
+      "notificationsOpened": 109
+    },
+    {
+      "date": "2026-03-10",
+      "platform": "Other",
+      "region": "Central",
+      "campaign": "email",
+      "appOpens": 560,
+      "activeUsers": 51,
+      "notificationsSent": 259,
+      "notificationsOpened": 33
+    },
+    {
+      "date": "2026-03-11",
+      "platform": "Android",
+      "region": "Central",
+      "campaign": "email",
+      "appOpens": 1145,
+      "activeUsers": 259,
+      "notificationsSent": 65,
+      "notificationsOpened": 37
+    },
+    {
+      "date": "2026-03-11",
+      "platform": "iOS",
+      "region": "South",
+      "campaign": "organic",
+      "appOpens": 1530,
+      "activeUsers": 203,
+      "notificationsSent": 251,
+      "notificationsOpened": 80
+    },
+    {
+      "date": "2026-03-11",
+      "platform": "Web",
+      "region": "West",
+      "campaign": "paid-search",
+      "appOpens": 1337,
+      "activeUsers": 397,
+      "notificationsSent": 437,
+      "notificationsOpened": 166
+    },
+    {
+      "date": "2026-03-11",
+      "platform": "Other",
+      "region": "North",
+      "campaign": "social",
+      "appOpens": 907,
+      "activeUsers": 779,
+      "notificationsSent": 84,
+      "notificationsOpened": 44
+    },
+    {
+      "date": "2026-03-12",
+      "platform": "Android",
+      "region": "North",
+      "campaign": "social",
+      "appOpens": 263,
+      "activeUsers": 243,
+      "notificationsSent": 277,
+      "notificationsOpened": 96
+    },
+    {
+      "date": "2026-03-12",
+      "platform": "iOS",
+      "region": "East",
+      "campaign": "email",
+      "appOpens": 1008,
+      "activeUsers": 299,
+      "notificationsSent": 129,
+      "notificationsOpened": 47
+    },
+    {
+      "date": "2026-03-12",
+      "platform": "Web",
+      "region": "Central",
+      "campaign": "organic",
+      "appOpens": 301,
+      "activeUsers": 296,
+      "notificationsSent": 244,
+      "notificationsOpened": 40
+    },
+    {
+      "date": "2026-03-12",
+      "platform": "Other",
+      "region": "South",
+      "campaign": "paid-search",
+      "appOpens": 1465,
+      "activeUsers": 595,
+      "notificationsSent": 140,
+      "notificationsOpened": 27
+    },
+    {
+      "date": "2026-03-13",
+      "platform": "Android",
+      "region": "South",
+      "campaign": "paid-search",
+      "appOpens": 269,
+      "activeUsers": 243,
+      "notificationsSent": 498,
+      "notificationsOpened": 150
+    },
+    {
+      "date": "2026-03-13",
+      "platform": "iOS",
+      "region": "West",
+      "campaign": "social",
+      "appOpens": 1526,
+      "activeUsers": 327,
+      "notificationsSent": 61,
+      "notificationsOpened": 30
+    },
+    {
+      "date": "2026-03-13",
+      "platform": "Web",
+      "region": "North",
+      "campaign": "email",
+      "appOpens": 572,
+      "activeUsers": 234,
+      "notificationsSent": 68,
+      "notificationsOpened": 35
+    },
+    {
+      "date": "2026-03-13",
+      "platform": "Other",
+      "region": "East",
+      "campaign": "organic",
+      "appOpens": 342,
+      "activeUsers": 315,
+      "notificationsSent": 428,
+      "notificationsOpened": 84
+    },
+    {
+      "date": "2026-03-14",
+      "platform": "Android",
+      "region": "East",
+      "campaign": "organic",
+      "appOpens": 730,
+      "activeUsers": 584,
+      "notificationsSent": 300,
+      "notificationsOpened": 39
+    },
+    {
+      "date": "2026-03-14",
+      "platform": "iOS",
+      "region": "Central",
+      "campaign": "paid-search",
+      "appOpens": 839,
+      "activeUsers": 356,
+      "notificationsSent": 92,
+      "notificationsOpened": 40
+    },
+    {
+      "date": "2026-03-14",
+      "platform": "Web",
+      "region": "South",
+      "campaign": "social",
+      "appOpens": 499,
+      "activeUsers": 314,
+      "notificationsSent": 233,
+      "notificationsOpened": 104
+    },
+    {
+      "date": "2026-03-14",
+      "platform": "Other",
+      "region": "West",
+      "campaign": "email",
+      "appOpens": 383,
+      "activeUsers": 264,
+      "notificationsSent": 263,
+      "notificationsOpened": 129
+    },
+    {
+      "date": "2026-03-15",
+      "platform": "Android",
+      "region": "West",
+      "campaign": "email",
+      "appOpens": 374,
+      "activeUsers": 338,
+      "notificationsSent": 96,
+      "notificationsOpened": 28
+    },
+    {
+      "date": "2026-03-15",
+      "platform": "iOS",
+      "region": "North",
+      "campaign": "organic",
+      "appOpens": 429,
+      "activeUsers": 312,
+      "notificationsSent": 496,
+      "notificationsOpened": 188
+    },
+    {
+      "date": "2026-03-15",
+      "platform": "Web",
+      "region": "East",
+      "campaign": "paid-search",
+      "appOpens": 1485,
+      "activeUsers": 458,
+      "notificationsSent": 343,
+      "notificationsOpened": 46
+    },
+    {
+      "date": "2026-03-15",
+      "platform": "Other",
+      "region": "Central",
+      "campaign": "social",
+      "appOpens": 1557,
+      "activeUsers": 697,
+      "notificationsSent": 96,
+      "notificationsOpened": 30
+    },
+    {
+      "date": "2026-03-16",
+      "platform": "Android",
+      "region": "Central",
+      "campaign": "social",
+      "appOpens": 676,
+      "activeUsers": 340,
+      "notificationsSent": 261,
+      "notificationsOpened": 31
+    },
+    {
+      "date": "2026-03-16",
+      "platform": "iOS",
+      "region": "South",
+      "campaign": "email",
+      "appOpens": 699,
+      "activeUsers": 645,
+      "notificationsSent": 450,
+      "notificationsOpened": 188
+    },
+    {
+      "date": "2026-03-16",
+      "platform": "Web",
+      "region": "West",
+      "campaign": "organic",
+      "appOpens": 373,
+      "activeUsers": 127,
+      "notificationsSent": 205,
+      "notificationsOpened": 84
+    },
+    {
+      "date": "2026-03-16",
+      "platform": "Other",
+      "region": "North",
+      "campaign": "paid-search",
+      "appOpens": 348,
+      "activeUsers": 232,
+      "notificationsSent": 196,
+      "notificationsOpened": 77
+    },
+    {
+      "date": "2026-03-17",
+      "platform": "Android",
+      "region": "North",
+      "campaign": "paid-search",
+      "appOpens": 1042,
+      "activeUsers": 123,
+      "notificationsSent": 264,
+      "notificationsOpened": 114
+    },
+    {
+      "date": "2026-03-17",
+      "platform": "iOS",
+      "region": "East",
+      "campaign": "social",
+      "appOpens": 358,
+      "activeUsers": 220,
+      "notificationsSent": 311,
+      "notificationsOpened": 155
+    },
+    {
+      "date": "2026-03-17",
+      "platform": "Web",
+      "region": "Central",
+      "campaign": "email",
+      "appOpens": 1432,
+      "activeUsers": 171,
+      "notificationsSent": 306,
+      "notificationsOpened": 115
+    },
+    {
+      "date": "2026-03-17",
+      "platform": "Other",
+      "region": "South",
+      "campaign": "organic",
+      "appOpens": 335,
+      "activeUsers": 152,
+      "notificationsSent": 231,
+      "notificationsOpened": 128
+    },
+    {
+      "date": "2026-03-18",
+      "platform": "Android",
+      "region": "South",
+      "campaign": "organic",
+      "appOpens": 1003,
+      "activeUsers": 61,
+      "notificationsSent": 496,
+      "notificationsOpened": 145
+    },
+    {
+      "date": "2026-03-18",
+      "platform": "iOS",
+      "region": "West",
+      "campaign": "paid-search",
+      "appOpens": 1408,
+      "activeUsers": 162,
+      "notificationsSent": 298,
+      "notificationsOpened": 90
+    },
+    {
+      "date": "2026-03-18",
+      "platform": "Web",
+      "region": "North",
+      "campaign": "social",
+      "appOpens": 349,
+      "activeUsers": 228,
+      "notificationsSent": 497,
+      "notificationsOpened": 254
+    },
+    {
+      "date": "2026-03-18",
+      "platform": "Other",
+      "region": "East",
+      "campaign": "email",
+      "appOpens": 390,
+      "activeUsers": 158,
+      "notificationsSent": 188,
+      "notificationsOpened": 102
+    },
+    {
+      "date": "2026-03-19",
+      "platform": "Android",
+      "region": "East",
+      "campaign": "email",
+      "appOpens": 999,
+      "activeUsers": 333,
+      "notificationsSent": 498,
+      "notificationsOpened": 278
+    },
+    {
+      "date": "2026-03-19",
+      "platform": "iOS",
+      "region": "Central",
+      "campaign": "organic",
+      "appOpens": 1531,
+      "activeUsers": 543,
+      "notificationsSent": 65,
+      "notificationsOpened": 36
+    },
+    {
+      "date": "2026-03-19",
+      "platform": "Web",
+      "region": "South",
+      "campaign": "paid-search",
+      "appOpens": 413,
+      "activeUsers": 380,
+      "notificationsSent": 467,
+      "notificationsOpened": 145
+    },
+    {
+      "date": "2026-03-19",
+      "platform": "Other",
+      "region": "West",
+      "campaign": "social",
+      "appOpens": 1055,
+      "activeUsers": 614,
+      "notificationsSent": 411,
+      "notificationsOpened": 180
+    },
+    {
+      "date": "2026-03-20",
+      "platform": "Android",
+      "region": "West",
+      "campaign": "social",
+      "appOpens": 364,
+      "activeUsers": 239,
+      "notificationsSent": 338,
+      "notificationsOpened": 46
+    },
+    {
+      "date": "2026-03-20",
+      "platform": "iOS",
+      "region": "North",
+      "campaign": "email",
+      "appOpens": 480,
+      "activeUsers": 364,
+      "notificationsSent": 86,
+      "notificationsOpened": 16
+    },
+    {
+      "date": "2026-03-20",
+      "platform": "Web",
+      "region": "East",
+      "campaign": "organic",
+      "appOpens": 704,
+      "activeUsers": 635,
+      "notificationsSent": 221,
+      "notificationsOpened": 107
+    },
+    {
+      "date": "2026-03-20",
+      "platform": "Other",
+      "region": "Central",
+      "campaign": "paid-search",
+      "appOpens": 1137,
+      "activeUsers": 263,
+      "notificationsSent": 270,
+      "notificationsOpened": 140
+    },
+    {
+      "date": "2026-03-21",
+      "platform": "Android",
+      "region": "Central",
+      "campaign": "paid-search",
+      "appOpens": 919,
+      "activeUsers": 557,
+      "notificationsSent": 191,
+      "notificationsOpened": 94
+    },
+    {
+      "date": "2026-03-21",
+      "platform": "iOS",
+      "region": "South",
+      "campaign": "social",
+      "appOpens": 863,
+      "activeUsers": 81,
+      "notificationsSent": 325,
+      "notificationsOpened": 118
+    },
+    {
+      "date": "2026-03-21",
+      "platform": "Web",
+      "region": "West",
+      "campaign": "email",
+      "appOpens": 1078,
+      "activeUsers": 96,
+      "notificationsSent": 108,
+      "notificationsOpened": 14
+    },
+    {
+      "date": "2026-03-21",
+      "platform": "Other",
+      "region": "North",
+      "campaign": "organic",
+      "appOpens": 1292,
+      "activeUsers": 215,
+      "notificationsSent": 445,
+      "notificationsOpened": 127
+    },
+    {
+      "date": "2026-03-22",
+      "platform": "Android",
+      "region": "North",
+      "campaign": "organic",
+      "appOpens": 756,
+      "activeUsers": 376,
+      "notificationsSent": 364,
+      "notificationsOpened": 182
+    },
+    {
+      "date": "2026-03-22",
+      "platform": "iOS",
+      "region": "East",
+      "campaign": "paid-search",
+      "appOpens": 530,
+      "activeUsers": 341,
+      "notificationsSent": 272,
+      "notificationsOpened": 74
+    },
+    {
+      "date": "2026-03-22",
+      "platform": "Web",
+      "region": "Central",
+      "campaign": "social",
+      "appOpens": 1558,
+      "activeUsers": 770,
+      "notificationsSent": 403,
+      "notificationsOpened": 119
+    },
+    {
+      "date": "2026-03-22",
+      "platform": "Other",
+      "region": "South",
+      "campaign": "email",
+      "appOpens": 614,
+      "activeUsers": 530,
+      "notificationsSent": 253,
+      "notificationsOpened": 53
+    },
+    {
+      "date": "2026-03-23",
+      "platform": "Android",
+      "region": "South",
+      "campaign": "email",
+      "appOpens": 624,
+      "activeUsers": 60,
+      "notificationsSent": 428,
+      "notificationsOpened": 214
+    },
+    {
+      "date": "2026-03-23",
+      "platform": "iOS",
+      "region": "West",
+      "campaign": "organic",
+      "appOpens": 365,
+      "activeUsers": 72,
+      "notificationsSent": 316,
+      "notificationsOpened": 83
+    },
+    {
+      "date": "2026-03-23",
+      "platform": "Web",
+      "region": "North",
+      "campaign": "paid-search",
+      "appOpens": 321,
+      "activeUsers": 181,
+      "notificationsSent": 430,
+      "notificationsOpened": 102
+    },
+    {
+      "date": "2026-03-23",
+      "platform": "Other",
+      "region": "East",
+      "campaign": "social",
+      "appOpens": 1621,
+      "activeUsers": 629,
+      "notificationsSent": 375,
+      "notificationsOpened": 99
+    },
+    {
+      "date": "2026-03-24",
+      "platform": "Android",
+      "region": "East",
+      "campaign": "social",
+      "appOpens": 522,
+      "activeUsers": 478,
+      "notificationsSent": 144,
+      "notificationsOpened": 53
+    },
+    {
+      "date": "2026-03-24",
+      "platform": "iOS",
+      "region": "Central",
+      "campaign": "email",
+      "appOpens": 867,
+      "activeUsers": 92,
+      "notificationsSent": 423,
+      "notificationsOpened": 159
+    },
+    {
+      "date": "2026-03-24",
+      "platform": "Web",
+      "region": "South",
+      "campaign": "organic",
+      "appOpens": 1481,
+      "activeUsers": 190,
+      "notificationsSent": 392,
+      "notificationsOpened": 217
+    },
+    {
+      "date": "2026-03-24",
+      "platform": "Other",
+      "region": "West",
+      "campaign": "paid-search",
+      "appOpens": 1243,
+      "activeUsers": 192,
+      "notificationsSent": 184,
+      "notificationsOpened": 55
+    },
+    {
+      "date": "2026-03-25",
+      "platform": "Android",
+      "region": "West",
+      "campaign": "paid-search",
+      "appOpens": 482,
+      "activeUsers": 269,
+      "notificationsSent": 391,
+      "notificationsOpened": 142
+    },
+    {
+      "date": "2026-03-25",
+      "platform": "iOS",
+      "region": "North",
+      "campaign": "social",
+      "appOpens": 1544,
+      "activeUsers": 380,
+      "notificationsSent": 167,
+      "notificationsOpened": 41
+    },
+    {
+      "date": "2026-03-25",
+      "platform": "Web",
+      "region": "East",
+      "campaign": "email",
+      "appOpens": 484,
+      "activeUsers": 312,
+      "notificationsSent": 52,
+      "notificationsOpened": 16
+    },
+    {
+      "date": "2026-03-25",
+      "platform": "Other",
+      "region": "Central",
+      "campaign": "organic",
+      "appOpens": 1410,
+      "activeUsers": 232,
+      "notificationsSent": 475,
+      "notificationsOpened": 200
+    },
+    {
+      "date": "2026-03-26",
+      "platform": "Android",
+      "region": "Central",
+      "campaign": "organic",
+      "appOpens": 1355,
+      "activeUsers": 298,
+      "notificationsSent": 495,
+      "notificationsOpened": 274
+    },
+    {
+      "date": "2026-03-26",
+      "platform": "iOS",
+      "region": "South",
+      "campaign": "paid-search",
+      "appOpens": 297,
+      "activeUsers": 220,
+      "notificationsSent": 108,
+      "notificationsOpened": 45
+    },
+    {
+      "date": "2026-03-26",
+      "platform": "Web",
+      "region": "West",
+      "campaign": "social",
+      "appOpens": 288,
+      "activeUsers": 181,
+      "notificationsSent": 105,
+      "notificationsOpened": 26
+    },
+    {
+      "date": "2026-03-26",
+      "platform": "Other",
+      "region": "North",
+      "campaign": "email",
+      "appOpens": 1440,
+      "activeUsers": 278,
+      "notificationsSent": 340,
+      "notificationsOpened": 144
+    },
+    {
+      "date": "2026-03-27",
+      "platform": "Android",
+      "region": "North",
+      "campaign": "email",
+      "appOpens": 1406,
+      "activeUsers": 296,
+      "notificationsSent": 56,
+      "notificationsOpened": 16
+    },
+    {
+      "date": "2026-03-27",
+      "platform": "iOS",
+      "region": "East",
+      "campaign": "organic",
+      "appOpens": 1207,
+      "activeUsers": 172,
+      "notificationsSent": 468,
+      "notificationsOpened": 188
+    },
+    {
+      "date": "2026-03-27",
+      "platform": "Web",
+      "region": "Central",
+      "campaign": "paid-search",
+      "appOpens": 957,
+      "activeUsers": 381,
+      "notificationsSent": 414,
+      "notificationsOpened": 117
+    },
+    {
+      "date": "2026-03-27",
+      "platform": "Other",
+      "region": "South",
+      "campaign": "social",
+      "appOpens": 1627,
+      "activeUsers": 274,
+      "notificationsSent": 349,
+      "notificationsOpened": 68
+    },
+    {
+      "date": "2026-03-28",
+      "platform": "Android",
+      "region": "South",
+      "campaign": "social",
+      "appOpens": 1293,
+      "activeUsers": 204,
+      "notificationsSent": 326,
+      "notificationsOpened": 148
+    },
+    {
+      "date": "2026-03-28",
+      "platform": "iOS",
+      "region": "West",
+      "campaign": "email",
+      "appOpens": 1324,
+      "activeUsers": 376,
+      "notificationsSent": 258,
+      "notificationsOpened": 108
+    },
+    {
+      "date": "2026-03-28",
+      "platform": "Web",
+      "region": "North",
+      "campaign": "organic",
+      "appOpens": 442,
+      "activeUsers": 287,
+      "notificationsSent": 480,
+      "notificationsOpened": 206
+    },
+    {
+      "date": "2026-03-28",
+      "platform": "Other",
+      "region": "East",
+      "campaign": "paid-search",
+      "appOpens": 1223,
+      "activeUsers": 65,
+      "notificationsSent": 328,
+      "notificationsOpened": 172
+    },
+    {
+      "date": "2026-03-29",
+      "platform": "Android",
+      "region": "East",
+      "campaign": "paid-search",
+      "appOpens": 660,
+      "activeUsers": 501,
+      "notificationsSent": 191,
+      "notificationsOpened": 98
+    },
+    {
+      "date": "2026-03-29",
+      "platform": "iOS",
+      "region": "Central",
+      "campaign": "social",
+      "appOpens": 1254,
+      "activeUsers": 494,
+      "notificationsSent": 462,
+      "notificationsOpened": 200
+    },
+    {
+      "date": "2026-03-29",
+      "platform": "Web",
+      "region": "South",
+      "campaign": "email",
+      "appOpens": 976,
+      "activeUsers": 492,
+      "notificationsSent": 376,
+      "notificationsOpened": 85
+    },
+    {
+      "date": "2026-03-29",
+      "platform": "Other",
+      "region": "West",
+      "campaign": "organic",
+      "appOpens": 635,
+      "activeUsers": 304,
+      "notificationsSent": 285,
+      "notificationsOpened": 78
+    },
+    {
+      "date": "2026-03-30",
+      "platform": "Android",
+      "region": "West",
+      "campaign": "organic",
+      "appOpens": 321,
+      "activeUsers": 72,
+      "notificationsSent": 243,
+      "notificationsOpened": 91
+    },
+    {
+      "date": "2026-03-30",
+      "platform": "iOS",
+      "region": "North",
+      "campaign": "paid-search",
+      "appOpens": 348,
+      "activeUsers": 216,
+      "notificationsSent": 459,
+      "notificationsOpened": 220
+    },
+    {
+      "date": "2026-03-30",
+      "platform": "Web",
+      "region": "East",
+      "campaign": "social",
+      "appOpens": 1453,
+      "activeUsers": 410,
+      "notificationsSent": 322,
+      "notificationsOpened": 157
+    },
+    {
+      "date": "2026-03-30",
+      "platform": "Other",
+      "region": "Central",
+      "campaign": "email",
+      "appOpens": 803,
+      "activeUsers": 798,
+      "notificationsSent": 440,
+      "notificationsOpened": 183
+    },
+    {
+      "date": "2026-03-31",
+      "platform": "Android",
+      "region": "Central",
+      "campaign": "email",
+      "appOpens": 252,
+      "activeUsers": 66,
+      "notificationsSent": 112,
+      "notificationsOpened": 29
+    },
+    {
+      "date": "2026-03-31",
+      "platform": "iOS",
+      "region": "South",
+      "campaign": "organic",
+      "appOpens": 285,
+      "activeUsers": 144,
+      "notificationsSent": 303,
+      "notificationsOpened": 45
+    },
+    {
+      "date": "2026-03-31",
+      "platform": "Web",
+      "region": "West",
+      "campaign": "paid-search",
+      "appOpens": 1023,
+      "activeUsers": 211,
+      "notificationsSent": 265,
+      "notificationsOpened": 123
+    },
+    {
+      "date": "2026-03-31",
+      "platform": "Other",
+      "region": "North",
+      "campaign": "social",
+      "appOpens": 1194,
+      "activeUsers": 775,
+      "notificationsSent": 352,
+      "notificationsOpened": 100
+    },
+    {
+      "date": "2026-04-01",
+      "platform": "Android",
+      "region": "North",
+      "campaign": "social",
+      "appOpens": 371,
+      "activeUsers": 238,
+      "notificationsSent": 294,
+      "notificationsOpened": 41
+    },
+    {
+      "date": "2026-04-01",
+      "platform": "iOS",
+      "region": "East",
+      "campaign": "email",
+      "appOpens": 266,
+      "activeUsers": 190,
+      "notificationsSent": 303,
+      "notificationsOpened": 101
+    },
+    {
+      "date": "2026-04-01",
+      "platform": "Web",
+      "region": "Central",
+      "campaign": "organic",
+      "appOpens": 1275,
+      "activeUsers": 716,
+      "notificationsSent": 357,
+      "notificationsOpened": 181
+    },
+    {
+      "date": "2026-04-01",
+      "platform": "Other",
+      "region": "South",
+      "campaign": "paid-search",
+      "appOpens": 588,
+      "activeUsers": 436,
+      "notificationsSent": 299,
+      "notificationsOpened": 70
+    },
+    {
+      "date": "2026-04-02",
+      "platform": "Android",
+      "region": "South",
+      "campaign": "paid-search",
+      "appOpens": 1336,
+      "activeUsers": 625,
+      "notificationsSent": 378,
+      "notificationsOpened": 56
+    },
+    {
+      "date": "2026-04-02",
+      "platform": "iOS",
+      "region": "West",
+      "campaign": "social",
+      "appOpens": 596,
+      "activeUsers": 376,
+      "notificationsSent": 150,
+      "notificationsOpened": 56
+    },
+    {
+      "date": "2026-04-02",
+      "platform": "Web",
+      "region": "North",
+      "campaign": "email",
+      "appOpens": 1427,
+      "activeUsers": 101,
+      "notificationsSent": 82,
+      "notificationsOpened": 12
+    },
+    {
+      "date": "2026-04-02",
+      "platform": "Other",
+      "region": "East",
+      "campaign": "organic",
+      "appOpens": 663,
+      "activeUsers": 78,
+      "notificationsSent": 403,
+      "notificationsOpened": 74
+    },
+    {
+      "date": "2026-04-03",
+      "platform": "Android",
+      "region": "East",
+      "campaign": "organic",
+      "appOpens": 1122,
+      "activeUsers": 366,
+      "notificationsSent": 423,
+      "notificationsOpened": 196
+    },
+    {
+      "date": "2026-04-03",
+      "platform": "iOS",
+      "region": "Central",
+      "campaign": "paid-search",
+      "appOpens": 673,
+      "activeUsers": 441,
+      "notificationsSent": 292,
+      "notificationsOpened": 82
+    },
+    {
+      "date": "2026-04-03",
+      "platform": "Web",
+      "region": "South",
+      "campaign": "social",
+      "appOpens": 513,
+      "activeUsers": 102,
+      "notificationsSent": 82,
+      "notificationsOpened": 25
+    },
+    {
+      "date": "2026-04-03",
+      "platform": "Other",
+      "region": "West",
+      "campaign": "email",
+      "appOpens": 1185,
+      "activeUsers": 421,
+      "notificationsSent": 210,
+      "notificationsOpened": 92
+    },
+    {
+      "date": "2026-04-04",
+      "platform": "Android",
+      "region": "West",
+      "campaign": "email",
+      "appOpens": 1416,
+      "activeUsers": 270,
+      "notificationsSent": 92,
+      "notificationsOpened": 29
+    },
+    {
+      "date": "2026-04-04",
+      "platform": "iOS",
+      "region": "North",
+      "campaign": "organic",
+      "appOpens": 1179,
+      "activeUsers": 434,
+      "notificationsSent": 168,
+      "notificationsOpened": 31
+    },
+    {
+      "date": "2026-04-04",
+      "platform": "Web",
+      "region": "East",
+      "campaign": "paid-search",
+      "appOpens": 967,
+      "activeUsers": 408,
+      "notificationsSent": 392,
+      "notificationsOpened": 181
+    },
+    {
+      "date": "2026-04-04",
+      "platform": "Other",
+      "region": "Central",
+      "campaign": "social",
+      "appOpens": 795,
+      "activeUsers": 536,
+      "notificationsSent": 70,
+      "notificationsOpened": 17
+    },
+    {
+      "date": "2026-04-05",
+      "platform": "Android",
+      "region": "Central",
+      "campaign": "social",
+      "appOpens": 1400,
+      "activeUsers": 332,
+      "notificationsSent": 470,
+      "notificationsOpened": 96
+    },
+    {
+      "date": "2026-04-05",
+      "platform": "iOS",
+      "region": "South",
+      "campaign": "email",
+      "appOpens": 660,
+      "activeUsers": 500,
+      "notificationsSent": 481,
+      "notificationsOpened": 119
+    },
+    {
+      "date": "2026-04-05",
+      "platform": "Web",
+      "region": "West",
+      "campaign": "organic",
+      "appOpens": 1016,
+      "activeUsers": 68,
+      "notificationsSent": 462,
+      "notificationsOpened": 176
+    },
+    {
+      "date": "2026-04-05",
+      "platform": "Other",
+      "region": "North",
+      "campaign": "paid-search",
+      "appOpens": 596,
+      "activeUsers": 308,
+      "notificationsSent": 261,
+      "notificationsOpened": 114
+    },
+    {
+      "date": "2026-04-06",
+      "platform": "Android",
+      "region": "North",
+      "campaign": "paid-search",
+      "appOpens": 1340,
+      "activeUsers": 225,
+      "notificationsSent": 52,
+      "notificationsOpened": 21
+    },
+    {
+      "date": "2026-04-06",
+      "platform": "iOS",
+      "region": "East",
+      "campaign": "social",
+      "appOpens": 523,
+      "activeUsers": 431,
+      "notificationsSent": 81,
+      "notificationsOpened": 10
+    },
+    {
+      "date": "2026-04-06",
+      "platform": "Web",
+      "region": "Central",
+      "campaign": "email",
+      "appOpens": 1064,
+      "activeUsers": 309,
+      "notificationsSent": 85,
+      "notificationsOpened": 43
+    },
+    {
+      "date": "2026-04-06",
+      "platform": "Other",
+      "region": "South",
+      "campaign": "organic",
+      "appOpens": 742,
+      "activeUsers": 457,
+      "notificationsSent": 120,
+      "notificationsOpened": 18
+    },
+    {
+      "date": "2026-04-07",
+      "platform": "Android",
+      "region": "South",
+      "campaign": "organic",
+      "appOpens": 576,
+      "activeUsers": 213,
+      "notificationsSent": 165,
+      "notificationsOpened": 82
+    },
+    {
+      "date": "2026-04-07",
+      "platform": "iOS",
+      "region": "West",
+      "campaign": "paid-search",
+      "appOpens": 1614,
+      "activeUsers": 466,
+      "notificationsSent": 486,
+      "notificationsOpened": 121
+    },
+    {
+      "date": "2026-04-07",
+      "platform": "Web",
+      "region": "North",
+      "campaign": "social",
+      "appOpens": 281,
+      "activeUsers": 65,
+      "notificationsSent": 330,
+      "notificationsOpened": 167
+    },
+    {
+      "date": "2026-04-07",
+      "platform": "Other",
+      "region": "East",
+      "campaign": "email",
+      "appOpens": 1222,
+      "activeUsers": 514,
+      "notificationsSent": 320,
+      "notificationsOpened": 131
+    },
+    {
+      "date": "2026-04-08",
+      "platform": "Android",
+      "region": "East",
+      "campaign": "email",
+      "appOpens": 1105,
+      "activeUsers": 229,
+      "notificationsSent": 51,
+      "notificationsOpened": 27
+    },
+    {
+      "date": "2026-04-08",
+      "platform": "iOS",
+      "region": "Central",
+      "campaign": "organic",
+      "appOpens": 815,
+      "activeUsers": 401,
+      "notificationsSent": 69,
+      "notificationsOpened": 25
+    },
+    {
+      "date": "2026-04-08",
+      "platform": "Web",
+      "region": "South",
+      "campaign": "paid-search",
+      "appOpens": 1590,
+      "activeUsers": 167,
+      "notificationsSent": 416,
+      "notificationsOpened": 217
+    },
+    {
+      "date": "2026-04-08",
+      "platform": "Other",
+      "region": "West",
+      "campaign": "social",
+      "appOpens": 1251,
+      "activeUsers": 415,
+      "notificationsSent": 199,
+      "notificationsOpened": 72
+    },
+    {
+      "date": "2026-04-09",
+      "platform": "Android",
+      "region": "West",
+      "campaign": "social",
+      "appOpens": 1372,
+      "activeUsers": 172,
+      "notificationsSent": 488,
+      "notificationsOpened": 81
+    },
+    {
+      "date": "2026-04-09",
+      "platform": "iOS",
+      "region": "North",
+      "campaign": "email",
+      "appOpens": 1621,
+      "activeUsers": 789,
+      "notificationsSent": 378,
+      "notificationsOpened": 151
+    },
+    {
+      "date": "2026-04-09",
+      "platform": "Web",
+      "region": "East",
+      "campaign": "organic",
+      "appOpens": 1252,
+      "activeUsers": 242,
+      "notificationsSent": 441,
+      "notificationsOpened": 93
+    },
+    {
+      "date": "2026-04-09",
+      "platform": "Other",
+      "region": "Central",
+      "campaign": "paid-search",
+      "appOpens": 1457,
+      "activeUsers": 598,
+      "notificationsSent": 488,
+      "notificationsOpened": 201
+    },
+    {
+      "date": "2026-04-10",
+      "platform": "Android",
+      "region": "Central",
+      "campaign": "paid-search",
+      "appOpens": 1254,
+      "activeUsers": 78,
+      "notificationsSent": 226,
+      "notificationsOpened": 67
+    },
+    {
+      "date": "2026-04-10",
+      "platform": "iOS",
+      "region": "South",
+      "campaign": "social",
+      "appOpens": 937,
+      "activeUsers": 662,
+      "notificationsSent": 319,
+      "notificationsOpened": 92
+    },
+    {
+      "date": "2026-04-10",
+      "platform": "Web",
+      "region": "West",
+      "campaign": "email",
+      "appOpens": 861,
+      "activeUsers": 779,
+      "notificationsSent": 62,
+      "notificationsOpened": 29
+    },
+    {
+      "date": "2026-04-10",
+      "platform": "Other",
+      "region": "North",
+      "campaign": "organic",
+      "appOpens": 468,
+      "activeUsers": 389,
+      "notificationsSent": 188,
+      "notificationsOpened": 54
+    }
+  ]
+}
